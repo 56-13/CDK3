@@ -1,0 +1,156 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>CDK.Assets</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CDK.Assets\CDK.Assets.csproj" />
+    <ProjectReference Include="..\CDK.Drawing\CDK.Drawing.csproj" />
+    <ProjectReference Include="..\CDK\CDK.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cyotek.Windows.Forms.ColorPicker" Version="1.7.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.ServiceProcess" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Animations\Sprite\Elements\BlurSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\WaveSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\MeshSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\SaturationSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\ContrastSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\GradientArcSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\GradientRectSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\GradientLineSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\SphereSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\RectSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\LineSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\BoxSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\RotateSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\ScaleSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\ArcSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\InvertSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\BrightnessSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\LensSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Meshing\MaterialConfigControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationColorLinearControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Trail\TrailControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Scenes\Geometry\SphereControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\Geometry\BoxControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\Lighting\SpotLightControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\PointLightControl - 복사.Designer.cs">
+      <DependentUpon>PointLightControl.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Scenes\Lighting\PointLightControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\DirectionalLightControl - 복사.Designer.cs">
+      <DependentUpon>DirectionalLightControl.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Scenes\SceneComponentSelectTreeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\SceneComponentSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainWallSourceControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainWallControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageCropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageCropScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Scenes\DirectionalLightControl - 복사.resx">
+      <DependentUpon>DirectionalLightControl.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Scenes\PointLightControl - 복사.resx">
+      <DependentUpon>PointLightControl.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(SolutionDir)\CDK.Assets\libvlc\*&quot; &quot;$(TargetDir)libvlc\&quot; /syd&#xD;&#xA;&#xD;&#xA;if $(ConfigurationName) == Release xcopy &quot;$(TargetDir)*&quot; &quot;$(SolutionDir)..\bin\AssetEditor&quot; /syd /exclude:$(SolutionDir)export-exclude-list.txt" />
+  </Target>
+
+</Project>

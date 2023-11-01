@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meshAsset version="100" axis="YUp" flipuv="True">
+  <imports>
+    <import name="Campfire_anim" extension="fbx" geometry="True" animations="Take 001" />
+  </imports>
+  <geometries>
+    <geometry name="Campfire_anim" />
+  </geometries>
+  <animations>
+    <animation name="Take 001" />
+  </animations>
+  <selection geometry="Campfire_anim" animation="Take 001">
+    <material origin="be20313f-fdec-4f42-9584-c6bfdb24d0d6" />
+    <material origin="07042ea1-a5bb-4b40-ac89-fc62c76cb480" local="True" shader="NoLight" blendMode="Add" cullMode="None" />
+  </selection>
+</meshAsset>

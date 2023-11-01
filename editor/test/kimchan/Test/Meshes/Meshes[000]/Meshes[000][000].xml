@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meshAsset version="100" axis="ZUp">
+  <imports>
+    <import name="rp_sophia_animated_003_idling" extension="fbx" geometry="True" animations="Take 001" />
+  </imports>
+  <geometries>
+    <geometry name="rp_sophia_animated_003_idling" >
+	  <materials>
+		<material origin="c3565ecf-6d60-4bd0-a0a3-3fd082cc9bcd" />
+	  </materials>
+	  <colliders/>
+	</geometry>
+  </geometries>
+  <animations>
+    <animation name="Take 001" />
+  </animations>
+  <selection geometry="rp_sophia_animated_003_idling" >
+    <material origin="c3565ecf-6d60-4bd0-a0a3-3fd082cc9bcd" />
+  </selection>
+</meshAsset>

@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Animations\AnimationKeysForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\ColorSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\ImageSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\Elements\TranslateSpriteElementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\SpriteControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\SpriteTimelineControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sprite\SpriteTimelineScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="AssetSelectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\NumericUpDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LocaleStringImportCollisionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Meshing\MeshSelectionMaterialControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\Camera\CameraControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\Lighting\DirectionalLightControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\SceneObjectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\SceneScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Scenes\Lighting\ShadowControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Spawn\SpawnAssetControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeAssetControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeElementItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeElementReplaceValueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeElementSelectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeElementSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeElementSelectListItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attributes\AttributeExportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Spawn\SpawnControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainTileControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\MaterialControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationColorChannelControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationColorControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationColorFLinearControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\AnimationFragmentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Animations\AnimationSubstanceViewControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sources\AnimationSourceMeshControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\GizmoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\AnimationFragmentViewControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationLoopControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\AnimationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\AnimationSoundForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Animations\Derivations\AnimationDerivationEmissionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Derivations\AnimationDerivationLinkedControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Derivations\AnimationDerivationRandomControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationColorChannelScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Animations\Particle\ParticleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Particle\Shapes\ParticleShapeBoxControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Particle\Shapes\ParticleShapeCircleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Particle\Shapes\ParticleShapeConeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Particle\Shapes\ParticleShapeHemisphereControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Particle\Shapes\ParticleShapeRectangleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Particle\Shapes\ParticleShapeSphereControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sources\AnimationSourceImageControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Sources\AnimationSourcesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AssetEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssetRetainControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AssetSelectViewControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AssetSelectViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Components\ColorControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ColorFControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\ListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\RectangleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\RectangleTrackControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ScrollPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\StackPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\TrackControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\Vector2Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\Vector2TrackControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\Vector3Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\Vector3TrackControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Containers\ContainerAssetControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Meshing\MeshAnimationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Meshing\MeshControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Meshing\MeshColliderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Meshing\MeshGeometryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Meshing\MeshSelectionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationFloatConstantControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationFloatCurveControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationFloatCurveScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationFloatLinearControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Animations\Components\AnimationFloatControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\Environment\GroundControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\Environment\EnvironmentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Scenes\SceneControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AssetSelectTreeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LocaleStringExportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Components\DoubleBufferedListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Supports\ExcelSheetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Components\MultiSelectTreeview.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\RangeTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\TrackBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainAssetControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainAltitudeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainSurfaceControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainSurfaceMaterialControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainSurfaceSelectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainWaterControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terrain\TerrainWaterMaterialControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageAssetControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageReplaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageReplaceScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageResizeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\ImageSelectScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Texturing\MaterialForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\SkyboxAssetControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\SubImageControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\SubImageScreenControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Texturing\SubImageSelectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\MaterialAssetColorImportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\MaterialAssetControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Texturing\MaterialAssetMaterialImportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\MaterialAssetNormalImportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Texturing\TextureDescriptionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Texturing\SubImageControl.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

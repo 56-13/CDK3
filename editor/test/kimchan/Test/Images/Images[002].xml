@@ -1,0 +1,831 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rootImageAsset version="100" encoding="Rgba8" format="ClampToEdge,ClampToEdge,ClampToEdge,Linear,Linear,00000000,1">
+  <subImageAsset key="6d1579f2-df16-4c60-bfea-ac838004d71e">
+    <subImageElement frame="1910,3496,181,171" pivot="-35.5,64.5" />
+  </subImageAsset>
+  <subImageAsset key="1384f6c9-8dcc-4c87-9198-12f4eab7b1ba">
+    <subImageElement frame="1300,3441,182,170" pivot="-33,64" />
+  </subImageAsset>
+  <subImageAsset key="443e94cd-cfd7-4eb0-bd52-9e1d06af722f">
+    <subImageElement frame="190,3455,182,170" pivot="-27,64" />
+  </subImageAsset>
+  <subImageAsset key="c192fbae-b610-4e26-82e6-2f2740d03f45">
+    <subImageElement frame="2916,2427,195,169" pivot="14.5,63.5" />
+  </subImageAsset>
+  <subImageAsset key="e45a7c63-4d20-45d8-91bd-2acd56f904cb">
+    <subImageElement frame="811,2843,205,164" pivot="34.5,61" />
+  </subImageAsset>
+  <subImageAsset key="229e9d8a-ff57-4069-927b-c352bf6e02d4">
+    <subImageElement frame="929,3382,185,157" pivot="13.5,57.5" />
+  </subImageAsset>
+  <subImageAsset key="1595316e-2b9d-4b4d-ba0f-03ea1c4f4935">
+    <subImageElement frame="3000,345,191,162" pivot="-19.5,60" />
+  </subImageAsset>
+  <subImageAsset key="9d493c9a-7825-4b5f-871d-d31e0de4f862">
+    <subImageElement frame="2772,1241,196,166" pivot="-34,62" />
+  </subImageAsset>
+  <subImageAsset key="289ae501-02f1-4706-a188-fb8f018023e6">
+    <subImageElement frame="2717,2231,195,167" pivot="-34.5,62.5" />
+  </subImageAsset>
+  <subImageAsset key="75374b0f-ac8e-46e0-98bf-f1fc39cbb2ea">
+    <subImageElement frame="1888,2876,204,171" pivot="16,71.5" />
+  </subImageAsset>
+  <subImageAsset key="ffc0089f-7766-43a2-bb36-7daee7b7e88f">
+    <subImageElement frame="2657,3354,187,167" pivot="-29.5,62.5" />
+  </subImageAsset>
+  <subImageAsset key="eb959927-db70-4394-826b-ff0e7355ac1c">
+    <subImageElement frame="3109,2102,183,165" pivot="-12.5,61.5" />
+  </subImageAsset>
+  <subImageAsset key="e9d36740-e08f-47dd-a6bd-5c3f895e1e3c">
+    <subImageElement frame="0,2419,232,161" pivot="9,59.5" />
+  </subImageAsset>
+  <subImageAsset key="1ba13afe-6269-400b-8b36-94dee66c5ea2">
+    <subImageElement frame="1451,1680,246,160" pivot="18,59" />
+  </subImageAsset>
+  <subImageAsset key="5ca454cd-2a8a-4287-89e7-8ccd04881692">
+    <subImageElement frame="2530,3522,180,173" pivot="3,64.5" />
+  </subImageAsset>
+  <subImageAsset key="f46e844c-92cb-4c02-ab72-ea204e96a967">
+    <subImageElement frame="642,810,279,163" pivot="-53.5,58.5" />
+  </subImageAsset>
+  <subImageAsset key="65506f98-671b-423b-98ec-0a34a94091eb">
+    <subImageElement frame="0,1343,323,166" pivot="-70.5,61" />
+  </subImageAsset>
+  <subImageAsset key="28091bfd-0733-4a84-9e7d-abdb82bc6fe8">
+    <subImageElement frame="0,175,333,167" pivot="-74.5,61.5" />
+  </subImageAsset>
+  <subImageAsset key="78a37914-8bf3-4c6a-a312-e350d5427b15">
+    <subImageElement frame="0,1174,329,168" pivot="-73.5,62" />
+  </subImageAsset>
+  <subImageAsset key="a755f008-7b69-48f2-8793-6e4d2515958a">
+    <subImageElement frame="0,1866,318,169" pivot="-69,62.5" />
+  </subImageAsset>
+  <subImageAsset key="7e22072e-fd1f-4382-8c25-54f9c58a9e2c">
+    <subImageElement frame="2585,710,203,172" pivot="19.5,66" />
+  </subImageAsset>
+  <subImageAsset key="39521829-aff6-414e-bf1b-03d7115fabe0">
+    <subImageElement frame="637,998,304,168" pivot="-63,63" />
+  </subImageAsset>
+  <subImageAsset key="f5d9042c-1353-48d8-8b62-28a5497e4b0f">
+    <subImageElement frame="916,1167,273,166" pivot="-51.5,63" />
+  </subImageAsset>
+  <subImageAsset key="e75615bf-ce28-4cf7-b7fa-47c2429e7ae2">
+    <subImageElement frame="0,2764,212,168" pivot="-31,64" />
+  </subImageAsset>
+  <subImageAsset key="c11f1c62-762d-4613-938a-a3e7c13c9c94">
+    <subImageElement frame="2468,3314,188,170" pivot="-33,64" />
+  </subImageAsset>
+  <subImageAsset key="903a24e1-7fdc-4758-b072-815f31d70d53">
+    <subImageElement frame="2352,1780,211,173" pivot="21.5,59.5" />
+  </subImageAsset>
+  <subImageAsset key="7822ec84-9e31-4a05-84e5-0921c53f4846">
+    <subImageElement frame="2601,159,201,199" pivot="3.5,43.5" />
+  </subImageAsset>
+  <subImageAsset key="97dd44fe-0a11-47f5-b683-9d66377adb45">
+    <subImageElement frame="3112,2268,183,182" pivot="-18.5,61" />
+  </subImageAsset>
+  <subImageAsset key="e0bf103a-bc31-4196-957d-788a268f77ee">
+    <subImageElement frame="2453,1954,210,175" pivot="-59,73.5" />
+  </subImageAsset>
+  <subImageAsset key="799bb833-bef7-4b14-93a0-c336085fbda7">
+    <subImageElement frame="1978,3307,185,188" pivot="-46.5,80" />
+  </subImageAsset>
+  <subImageAsset key="1b21c62b-c6d6-4546-bc76-ff3143f6b015">
+    <subImageElement frame="2283,3147,184,191" pivot="-44,81.5" />
+  </subImageAsset>
+  <subImageAsset key="8f65d49b-5e6b-4d76-b999-7b7264e5e1b0">
+    <subImageElement frame="2296,2615,212,196" pivot="-40,84" />
+  </subImageAsset>
+  <subImageAsset key="7cbdc960-f6ac-4e3c-9585-5cf2197fa0f5">
+    <subImageElement frame="2453,2130,207,195" pivot="-44.5,83.5" />
+  </subImageAsset>
+  <subImageAsset key="d9c58ecd-e672-4b69-84c7-b67e7293532a">
+    <subImageElement frame="3063,1588,184,183" pivot="-41,77.5" />
+  </subImageAsset>
+  <subImageAsset key="3d735326-d4ec-4007-93a3-e9e94c267b1c">
+    <subImageElement frame="605,2998,201,164" pivot="-52.5,68" />
+  </subImageAsset>
+  <subImageAsset key="22ee451f-c86d-46fe-87eb-28e5ed26b497">
+    <subImageElement frame="1407,3097,192,170" pivot="-27,70" />
+  </subImageAsset>
+  <subImageAsset key="9f6e89ed-027d-4e84-a35f-3ca5e424ac7f">
+    <subImageElement frame="639,645,303,164" pivot="46.5,67" />
+  </subImageAsset>
+  <subImageAsset key="ee748211-36db-4b6e-a346-b7571383c723">
+    <subImageElement frame="1777,2085,236,173" pivot="54,71.5" />
+  </subImageAsset>
+  <subImageAsset key="5bb99ec5-42c9-4064-a5ad-40cef8f076ac">
+    <subImageElement frame="1162,3230,189,175" pivot="35.5,72.5" />
+  </subImageAsset>
+  <subImageAsset key="70f97289-2dad-4ab1-a87a-2930d8c0f072">
+    <subImageElement frame="1483,3561,162,176" pivot="25,73" />
+  </subImageAsset>
+  <subImageAsset key="b5bb9816-a341-4e86-aa77-0648131a4afe">
+    <subImageElement frame="1084,3577,160,176" pivot="22,73" />
+  </subImageAsset>
+  <subImageAsset key="684373df-1c0e-4ac7-b65d-887803765051">
+    <subImageElement frame="1245,3612,169,175" pivot="21.5,73.5" />
+  </subImageAsset>
+  <subImageAsset key="1f77fb6c-62a3-41ff-a7aa-34d9a3988211">
+    <subImageElement frame="680,3548,179,175" pivot="23.5,73.5" />
+  </subImageAsset>
+  <subImageAsset key="74253c5b-408d-46e7-9f55-59496d8aec02">
+    <subImageElement frame="2716,2482,199,175" pivot="32.5,73.5" />
+  </subImageAsset>
+  <subImageAsset key="7723309c-80cf-42ff-afa5-fed33b14c790">
+    <subImageElement frame="2014,2075,224,173" pivot="39,72.5" />
+  </subImageAsset>
+  <subImageAsset key="a2dae4af-e6a0-492e-beda-c40aafa1d345">
+    <subImageElement frame="1863,239,229,172" pivot="33.5,72" />
+  </subImageAsset>
+  <subImageAsset key="0c748107-b431-4c36-9d8b-7a40ed4896ec">
+    <subImageElement frame="2987,514,194,180" pivot="1,67" />
+  </subImageAsset>
+  <subImageAsset key="8305cab1-eb0d-4763-8315-d0e3fdd5052d">
+    <subImageElement frame="3000,168,193,176" pivot="2.5,65" />
+  </subImageAsset>
+  <subImageAsset key="fbb5267e-60ba-4d4f-87e1-77c9b0f7e4bf">
+    <subImageElement frame="2485,3139,191,174" pivot="9.5,63" />
+  </subImageAsset>
+  <subImageAsset key="6d7355e6-56d5-4c32-a61b-ba36644d471a">
+    <subImageElement frame="1209,3058,197,171" pivot="32.5,61.5" />
+  </subImageAsset>
+  <subImageAsset key="9e98fbea-725f-4be2-a74b-81b768ced5b2">
+    <subImageElement frame="182,3626,174,166" pivot="8,53" />
+  </subImageAsset>
+  <subImageAsset key="b45e23d5-d536-42de-815f-fe4c300b2168">
+    <subImageElement frame="3000,0,193,167" pivot="-32.5,59.5" />
+  </subImageAsset>
+  <subImageAsset key="b2aaf891-0029-4949-bd8f-3ef66c9bcc13">
+    <subImageElement frame="2071,2703,214,172" pivot="-54,62" />
+  </subImageAsset>
+  <subImageAsset key="e0fdbfa1-b224-4ad9-9f7f-23c8cb3f3df2">
+    <subImageElement frame="2373,954,211,174" pivot="-57.5,63" />
+  </subImageAsset>
+  <subImageAsset key="52a2c866-8035-476f-92e4-5f743a4599a4">
+    <subImageElement frame="0,2933,204,174" pivot="-57,63" />
+  </subImageAsset>
+  <subImageAsset key="e876cf44-8a13-4aae-afd0-91061fadad61">
+    <subImageElement frame="2803,159,196,174" pivot="-51,63" />
+  </subImageAsset>
+  <subImageAsset key="8306e2cd-967e-4452-a4e0-b95a4e1d66b9">
+    <subImageElement frame="2789,873,196,173" pivot="-44,62.5" />
+  </subImageAsset>
+  <subImageAsset key="4a1e3c4b-518a-4234-81df-71bc609d6aba">
+    <subImageElement frame="1115,3406,184,170" pivot="-19,62" />
+  </subImageAsset>
+  <subImageAsset key="974e941e-f19c-400c-a5a8-a045e99735bc">
+    <subImageElement frame="0,2252,236,166" pivot="4,60" />
+  </subImageAsset>
+  <subImageAsset key="1649ef5e-3f4d-4077-afcc-2592d6ac0e98">
+    <subImageElement frame="1465,542,245,177" pivot="31.5,65.5" />
+  </subImageAsset>
+  <subImageAsset key="a75c81bc-ac64-419c-997f-98459fa8c41f">
+    <subImageElement frame="3032,3555,173,176" pivot="-26.5,65" />
+  </subImageAsset>
+  <subImageAsset key="fc7eb326-d2bc-436f-870c-ccbdfc0c69df">
+    <subImageElement frame="1639,0,244,174" pivot="-44,64" />
+  </subImageAsset>
+  <subImageAsset key="502fe881-74b6-43bb-84f9-877eda023208">
+    <subImageElement frame="922,810,269,173" pivot="-50.5,64.5" />
+  </subImageAsset>
+  <subImageAsset key="9da48ea3-536b-416e-b549-ecccac8ab369">
+    <subImageElement frame="918,1514,269,174" pivot="-49.5,65" />
+  </subImageAsset>
+  <subImageAsset key="bb155e45-4499-45a8-a1a5-9627a097c96d">
+    <subImageElement frame="1211,0,256,176" pivot="-46,66" />
+  </subImageAsset>
+  <subImageAsset key="ff6f1353-f6ef-4c63-8cd6-7761e4033bd1">
+    <subImageElement frame="1689,1907,237,177" pivot="-42.5,66.5" />
+  </subImageAsset>
+  <subImageAsset key="de5fb980-0f49-404b-b8d5-0f63dfd7a52f">
+    <subImageElement frame="2803,334,196,179" pivot="-33,66.5" />
+  </subImageAsset>
+  <subImageAsset key="40e759be-d782-4798-b4be-56f4490555f6">
+    <subImageElement frame="2861,3555,170,179" pivot="-35,66.5" />
+  </subImageAsset>
+  <subImageAsset key="10478998-b853-4195-aefc-e54500cb88a2">
+    <subImageElement frame="2845,3372,185,179" pivot="-18.5,66.5" />
+  </subImageAsset>
+  <subImageAsset key="5b8bb55d-77fa-49fc-9b13-3f56bbb426f7">
+    <subImageElement frame="0,3278,189,181" pivot="21.5,70.5" />
+  </subImageAsset>
+  <subImageAsset key="1facab9b-eb5f-46ed-89e0-ffad4c3c23d6">
+    <subImageElement frame="3086,2946,183,177" pivot="25.5,67.5" />
+  </subImageAsset>
+  <subImageAsset key="e135cd8a-aa7b-4c0a-9f40-9b9039aae754">
+    <subImageElement frame="1352,3268,189,172" pivot="27.5,65" />
+  </subImageAsset>
+  <subImageAsset key="5152ef82-84ec-4e35-9a90-40708c815c08">
+    <subImageElement frame="2261,0,213,167" pivot="26.5,58.5" />
+  </subImageAsset>
+  <subImageAsset key="03ae1ffd-f6c8-4ac7-90a2-6d1794ce2fe0">
+    <subImageElement frame="2890,2817,195,183" pivot="-1.5,52.5" />
+  </subImageAsset>
+  <subImageAsset key="71ba20ec-1c56-4984-92c0-63a7595af4aa">
+    <subImageElement frame="447,2658,215,172" pivot="-61.5,65" />
+  </subImageAsset>
+  <subImageAsset key="c4eb93e5-1b20-4732-8f54-a15bfecf01a9">
+    <subImageElement frame="2664,2019,201,173" pivot="-64.5,65.5" />
+  </subImageAsset>
+  <subImageAsset key="4e2624fa-35e6-4b47-819f-4d2afd23047a">
+    <subImageElement frame="2959,1408,194,179" pivot="-60,68.5" />
+  </subImageAsset>
+  <subImageAsset key="227bc750-7ffb-4bbe-aca8-776922ba0a30">
+    <subImageElement frame="972,3201,189,180" pivot="-58.5,69" />
+  </subImageAsset>
+  <subImageAsset key="5d08b897-8758-40d9-be15-b867db5a6812">
+    <subImageElement frame="2348,3485,181,176" pivot="-55.5,67" />
+  </subImageAsset>
+  <subImageAsset key="c4b31624-cc3b-42c1-9e55-1c0b5f39fd6f">
+    <subImageElement frame="3086,2775,184,170" pivot="-55,64" />
+  </subImageAsset>
+  <subImageAsset key="c2e574f3-2db8-49b5-8182-99d15b28d221">
+    <subImageElement frame="399,3006,200,171" pivot="-50,64.5" />
+  </subImageAsset>
+  <subImageAsset key="4e1d75ac-65a5-4597-907e-b7314f58b501">
+    <subImageElement frame="2286,2812,206,175" pivot="7,61.5" />
+  </subImageAsset>
+  <subImageAsset key="65e0f327-78d4-4d57-82fe-3f2290c9eb01">
+    <subImageElement frame="333,654,305,175" pivot="44.5,66.5" />
+  </subImageAsset>
+  <subImageAsset key="362a3d8b-79dd-4261-a58e-dbaddf678ce7">
+    <subImageElement frame="2711,3552,149,179" pivot="10.5,68.5" />
+  </subImageAsset>
+  <subImageAsset key="38df8f63-3f74-42b2-ae1a-cec305de04c5">
+    <subImageElement frame="3154,1398,125,179" pivot="-15.5,68.5" />
+  </subImageAsset>
+  <subImageAsset key="e67d9fe9-870c-4d25-af8e-0a98105e0cf3">
+    <subImageElement frame="929,3540,154,180" pivot="-19,69" />
+  </subImageAsset>
+  <subImageAsset key="b11f3920-9ed6-48ff-82e6-63afca043085">
+    <subImageElement frame="2092,3527,158,180" pivot="-20,69" />
+  </subImageAsset>
+  <subImageAsset key="a19f9f30-1e21-42a9-bf53-619dc37038f7">
+    <subImageElement frame="373,3505,155,181" pivot="-22.5,69.5" />
+  </subImageAsset>
+  <subImageAsset key="705ddac6-452a-4091-afe7-dae738c7b4be">
+    <subImageElement frame="529,3548,150,180" pivot="-28,69" />
+  </subImageAsset>
+  <subImageAsset key="583c5207-eaa9-418c-abc3-c4015233cf96">
+    <subImageElement frame="933,2461,149,182" pivot="-26.5,70" />
+  </subImageAsset>
+  <subImageAsset key="f7849c79-78e3-465f-8781-e33c11b4b6ef">
+    <subImageElement frame="3031,3372,185,182" pivot="2.5,70" />
+  </subImageAsset>
+  <subImageAsset key="c4647ab9-52d6-4a51-9129-9a697d3596b2">
+    <subImageElement frame="3017,1216,192,181" pivot="28,70.5" />
+  </subImageAsset>
+  <subImageAsset key="f587bd97-ead2-471a-b5df-728d976a875b">
+    <subImageElement frame="1902,3048,188,192" pivot="7,56" />
+  </subImageAsset>
+  <subImageAsset key="28beb47c-230b-47ee-ae4f-1d1250d51493">
+    <subImageElement frame="2767,1502,191,197" pivot="5.5,49.5" />
+  </subImageAsset>
+  <subImageAsset key="99161dca-e0df-4822-bce1-c65b3936f790">
+    <subImageElement frame="2568,1612,198,204" pivot="6,45" />
+  </subImageAsset>
+  <subImageAsset key="02989493-bcea-4bd8-a15a-36afc6995e7c">
+    <subImageElement frame="1951,1108,201,226" pivot="2.5,38" />
+  </subImageAsset>
+  <subImageAsset key="c657bafd-0121-4dfe-b876-b5464c265063">
+    <subImageElement frame="605,2831,205,166" pivot="-55.5,73" />
+  </subImageAsset>
+  <subImageAsset key="82dd9d05-1aeb-49db-a05e-dad75fc2e7c8">
+    <subImageElement frame="600,3163,181,191" pivot="-40.5,86.5" />
+  </subImageAsset>
+  <subImageAsset key="f6099486-b689-4984-bdae-fe3a17c5ed8e">
+    <subImageElement frame="2913,2231,195,195" pivot="-38.5,90.5" />
+  </subImageAsset>
+  <subImageAsset key="31e98853-0b29-4d79-bd76-b1fd86b2408d">
+    <subImageElement frame="1275,2639,216,200" pivot="-36,92" />
+  </subImageAsset>
+  <subImageAsset key="9e6a6b6d-7453-4757-ba3a-e32079d2fedf">
+    <subImageElement frame="1711,654,240,204" pivot="-30,93" />
+  </subImageAsset>
+  <subImageAsset key="151ec056-67d2-4d55-b7ee-51a064deb87f">
+    <subImageElement frame="1709,887,241,204" pivot="-32.5,92" />
+  </subImageAsset>
+  <subImageAsset key="25872a01-1c6d-4ff0-a213-b0f4e1adaa7b">
+    <subImageElement frame="638,1920,237,194" pivot="-35.5,91" />
+  </subImageAsset>
+  <subImageAsset key="6748764b-542d-4b35-8e0a-4b887b553c4d">
+    <subImageElement frame="2489,541,207,168" pivot="-28.5,77" />
+  </subImageAsset>
+  <subImageAsset key="b3e4d4e1-5f91-485f-80d5-f897db9e196c">
+    <subImageElement frame="2093,175,222,161" pivot="-58,73.5" />
+  </subImageAsset>
+  <subImageAsset key="78b193e5-3c61-4003-9371-3a14bbe9310e">
+    <subImageElement frame="713,2226,235,198" pivot="37.5,54" />
+  </subImageAsset>
+  <subImageAsset key="ac3035c4-8e93-4bd1-bbda-833591a86c5b">
+    <subImageElement frame="334,330,305,158" pivot="67.5,72" />
+  </subImageAsset>
+  <subImageAsset key="364a75e9-e701-4312-9c7e-ad2c8df1f6e8">
+    <subImageElement frame="641,1167,274,161" pivot="66,73.5" />
+  </subImageAsset>
+  <subImageAsset key="d93de7c1-03c4-4091-a8c9-3efcce115b56">
+    <subImageElement frame="1211,177,255,163" pivot="63.5,74.5" />
+  </subImageAsset>
+  <subImageAsset key="24f74107-d35f-42fa-a6f8-1f44cf1f19cd">
+    <subImageElement frame="1187,1875,250,163" pivot="60,74.5" />
+  </subImageAsset>
+  <subImageAsset key="096af360-6f21-4341-88b1-07922d07a9cb">
+    <subImageElement frame="1438,1875,250,163" pivot="57,74.5" />
+  </subImageAsset>
+  <subImageAsset key="4f283185-1af2-4725-8a2b-d65cbc21b399">
+    <subImageElement frame="1211,542,253,162" pivot="53.5,74" />
+  </subImageAsset>
+  <subImageAsset key="0bf0261c-6ad2-4bcb-97e5-bde3d537a2ec">
+    <subImageElement frame="943,1343,261,160" pivot="50.5,73" />
+  </subImageAsset>
+  <subImageAsset key="704eb939-7ca4-4b78-af1b-e86c1d9d5908">
+    <subImageElement frame="943,606,267,158" pivot="48.5,72" />
+  </subImageAsset>
+  <subImageAsset key="56cb0bbe-a01b-42b3-948b-2102eb26d460">
+    <subImageElement frame="1303,2039,236,178" pivot="29,62" />
+  </subImageAsset>
+  <subImageAsset key="ed2170be-5b22-4ae3-bb5a-07f90ecc359b">
+    <subImageElement frame="2294,554,194,213" pivot="26,50.5" />
+  </subImageAsset>
+  <subImageAsset key="561c5499-a129-492a-a58a-9330677e30f6">
+    <subImageElement frame="2156,1561,200,218" pivot="21,42" />
+  </subImageAsset>
+  <subImageAsset key="515cc162-5cca-4e00-bf83-f51935371e61">
+    <subImageElement frame="2021,1335,202,225" pivot="17,37.5" />
+  </subImageAsset>
+  <subImageAsset key="ca28f296-efc8-4e17-a65c-942940df1fde">
+    <subImageElement frame="1696,2493,191,230" pivot="11.5,39" />
+  </subImageAsset>
+  <subImageAsset key="432772f1-c6dc-41b5-b06f-53cc7e976f34">
+    <subImageElement frame="2035,0,225,174" pivot="-57.5,70" />
+  </subImageAsset>
+  <subImageAsset key="db995259-8bde-4c99-b13d-59a6b0881d1a">
+    <subImageElement frame="2093,2876,189,204" pivot="-29.5,86" />
+  </subImageAsset>
+  <subImageAsset key="d0d9354a-1e37-4b52-ad22-1f0634f56562">
+    <subImageElement frame="1504,2892,198,204" pivot="-23,87" />
+  </subImageAsset>
+  <subImageAsset key="30438e3a-d9c8-4b4d-9a9e-c1fa62c6ee63">
+    <subImageElement frame="2664,1817,201,201" pivot="-13.5,85.5" />
+  </subImageAsset>
+  <subImageAsset key="fde9e60f-42ce-46c2-a08b-5117096b8a6f">
+    <subImageElement frame="2296,2410,213,204" pivot="-7.5,86" />
+  </subImageAsset>
+  <subImageAsset key="b011db1d-9e4b-4305-bf01-70c30c103839">
+    <subImageElement frame="2153,1022,219,204" pivot="-8.5,85" />
+  </subImageAsset>
+  <subImageAsset key="2defa807-9a9f-4284-bfd4-8bf006d13167">
+    <subImageElement frame="1540,2085,236,202" pivot="-15,87" />
+  </subImageAsset>
+  <subImageAsset key="cfe795c7-6f90-4369-ab26-15fa7fcdb16a">
+    <subImageElement frame="1206,907,251,197" pivot="-21.5,81.5" />
+  </subImageAsset>
+  <subImageAsset key="89dcba8d-6200-4422-b1c1-d12ac953bacb">
+    <subImageElement frame="1465,720,245,166" pivot="-50.5,66" />
+  </subImageAsset>
+  <subImageAsset key="6527b440-f1bd-4cf0-958a-86e6e6b6df3d">
+    <subImageElement frame="1952,652,158,228" pivot="34,42" />
+  </subImageAsset>
+  <subImageAsset key="89fa053c-7e42-4cf0-a956-ae737ab18a2f">
+    <subImageElement frame="0,343,332,168" pivot="71,65" />
+  </subImageAsset>
+  <subImageAsset key="b95cb464-827f-4343-a0ff-026ab4071cbc">
+    <subImageElement frame="0,1008,330,165" pivot="77,65.5" />
+  </subImageAsset>
+  <subImageAsset key="931ba74a-2f2c-469f-8a08-f957214b4f37">
+    <subImageElement frame="0,1701,318,164" pivot="77,65" />
+  </subImageAsset>
+  <subImageAsset key="10654676-54c1-40c2-bdfc-726af0ca0f0c">
+    <subImageElement frame="324,1508,313,163" pivot="74.5,64.5" />
+  </subImageAsset>
+  <subImageAsset key="df400ddd-2bb1-4baa-b2c4-59a532e94911">
+    <subImageElement frame="330,1174,310,162" pivot="72,64" />
+  </subImageAsset>
+  <subImageAsset key="af16fc97-c8c7-487c-a176-e0c5a396aa60">
+    <subImageElement frame="334,165,306,164" pivot="69,65" />
+  </subImageAsset>
+  <subImageAsset key="310d628d-cf35-4f7b-a023-d063b68b3e33">
+    <subImageElement frame="641,0,299,166" pivot="62.5,66" />
+  </subImageAsset>
+  <subImageAsset key="bce88f12-2248-4cb8-ae39-99c8b8fc7303">
+    <subImageElement frame="1187,1689,263,185" pivot="45.5,59.5" />
+  </subImageAsset>
+  <subImageAsset key="dfdaed10-6761-4ed2-b1b0-e29edbaacadf">
+    <subImageElement frame="2224,1227,199,216" pivot="18.5,47" />
+  </subImageAsset>
+  <subImageAsset key="979efe64-8a6c-4fdc-8162-a38c9300cda0">
+    <subImageElement frame="1492,2639,181,215" pivot="35.5,49.5" />
+  </subImageAsset>
+  <subImageAsset key="a39dd7db-7467-478a-9ee6-60e17abd7a1f">
+    <subImageElement frame="2111,638,182,223" pivot="33,42.5" />
+  </subImageAsset>
+  <subImageAsset key="d2fe9810-1e9e-4fac-a982-c5cf0f31f638">
+    <subImageElement frame="1888,2493,182,230" pivot="27,37" />
+  </subImageAsset>
+  <subImageAsset key="30933e92-ccdc-4c7e-a85f-b58abdc0ce7d">
+    <subImageElement frame="2156,1780,195,218" pivot="-14.5,45" />
+  </subImageAsset>
+  <subImageAsset key="afe6b73a-5331-4847-9de2-6e8c012928b9">
+    <subImageElement frame="399,2831,205,174" pivot="-34.5,66" />
+  </subImageAsset>
+  <subImageAsset key="400b0591-1013-4a78-920a-ba2e913429b1">
+    <subImageElement frame="213,2817,185,205" pivot="-13.5,82.5" />
+  </subImageAsset>
+  <subImageAsset key="fc93b090-0357-4f04-9d71-e9bbf6ad9b9e">
+    <subImageElement frame="2677,3163,191,190" pivot="19.5,76" />
+  </subImageAsset>
+  <subImageAsset key="ab8f7425-9a8f-4cc4-8803-cf5ec8ba7338">
+    <subImageElement frame="2820,1047,196,193" pivot="34,77.5" />
+  </subImageAsset>
+  <subImageAsset key="492fb8c1-8e39-4cef-a3df-fb1e52b29d7f">
+    <subImageElement frame="2890,3001,195,194" pivot="34.5,77" />
+  </subImageAsset>
+  <subImageAsset key="6e82377f-ecc7-4bcb-9b8e-bc985e78a00a">
+    <subImageElement frame="1600,3205,187,189" pivot="29.5,73.5" />
+  </subImageAsset>
+  <subImageAsset key="b25c689f-af5f-4fac-9265-816ce0bd1dea">
+    <subImageElement frame="205,3023,183,193" pivot="12.5,75.5" />
+  </subImageAsset>
+  <subImageAsset key="5b1d7459-4b12-48e3-b89b-61582f05cacb">
+    <subImageElement frame="1302,2433,232,205" pivot="-9,77.5" />
+  </subImageAsset>
+  <subImageAsset key="ec87e46f-6955-417e-a480-41c6653d110d">
+    <subImageElement frame="1462,1505,246,174" pivot="-18,62" />
+  </subImageAsset>
+  <subImageAsset key="984da9ef-a514-4930-bcfe-f6cbcf71d0df">
+    <subImageElement frame="2035,412,180,225" pivot="-3,39.5" />
+  </subImageAsset>
+  <subImageAsset key="2e94568b-1d09-441e-bed2-fa4e631d93f9">
+    <subImageElement frame="638,1514,279,213" pivot="53.5,43.5" />
+  </subImageAsset>
+  <subImageAsset key="1f570c9c-0e70-4b64-bcab-39333b3c0cd2">
+    <subImageElement frame="0,1510,323,190" pivot="70.5,54" />
+  </subImageAsset>
+  <subImageAsset key="41886e20-9540-4c56-b69a-b77b4df9564d">
+    <subImageElement frame="0,0,333,174" pivot="74.5,62" />
+  </subImageAsset>
+  <subImageAsset key="02ca5ca8-b164-425c-8dd3-91918141e699">
+    <subImageElement frame="0,833,330,174" pivot="73,62" />
+  </subImageAsset>
+  <subImageAsset key="84c4ecd3-89c1-46fc-bdbe-cf8d097e8d05">
+    <subImageElement frame="319,1701,318,174" pivot="69,62" />
+  </subImageAsset>
+  <subImageAsset key="56f769b1-e05f-43b3-96c7-f1db2f183d56">
+    <subImageElement frame="638,1337,304,176" pivot="63,63" />
+  </subImageAsset>
+  <subImageAsset key="c3f5e216-1343-440d-b3e3-cd0064ff8aa5">
+    <subImageElement frame="913,1728,273,195" pivot="51.5,55.5" />
+  </subImageAsset>
+  <subImageAsset key="36ed6ed1-817e-4f68-b951-b147601eb9e6">
+    <subImageElement frame="1943,1642,212,228" pivot="31,41" />
+  </subImageAsset>
+  <subImageAsset key="b4362708-1541-47d6-9017-6c4be18dcc34">
+    <subImageElement frame="876,1924,188,237" pivot="33,38.5" />
+  </subImageAsset>
+  <subImageAsset key="3a82be5c-abdd-4f92-9368-51d3349565ac">
+    <subImageElement frame="2695,2962,194,200" pivot="-1,52" />
+  </subImageAsset>
+  <subImageAsset key="f1ec0c46-cccc-45b9-a0e5-bbcdbacbb70f">
+    <subImageElement frame="2424,1129,193,210" pivot="-2.5,45" />
+  </subImageAsset>
+  <subImageAsset key="a6b6c1e7-a977-42b0-9918-a994ab1e836f">
+    <subImageElement frame="2216,337,191,216" pivot="-9.5,41" />
+  </subImageAsset>
+  <subImageAsset key="7d3d8177-a775-42fa-a407-64496c06ba1d">
+    <subImageElement frame="2789,681,197,191" pivot="-32.5,53.5" />
+  </subImageAsset>
+  <subImageAsset key="e846104c-9a09-4721-b8f3-afce1ae74f95">
+    <subImageElement frame="754,3360,174,187" pivot="-8,74.5" />
+  </subImageAsset>
+  <subImageAsset key="436448cc-3a16-4cfd-bfc6-ca5d8df6932c">
+    <subImageElement frame="3017,1035,193,180" pivot="32.5,72" />
+  </subImageAsset>
+  <subImageAsset key="ebc52253-d2f8-40df-930b-2fbc5f9a55bf">
+    <subImageElement frame="879,2657,214,185" pivot="54,75.5" />
+  </subImageAsset>
+  <subImageAsset key="7bd28aaf-2379-4d6d-a68d-5e3d0e6f24e9">
+    <subImageElement frame="2373,768,211,185" pivot="57.5,75.5" />
+  </subImageAsset>
+  <subImageAsset key="954aeb2c-6c1d-4625-90d7-a6f655bc623d">
+    <subImageElement frame="1094,2840,204,185" pivot="57,74.5" />
+  </subImageAsset>
+  <subImageAsset key="a46dd608-5df1-4c00-b2ee-3bb6749f7b47">
+    <subImageElement frame="2866,1700,196,184" pivot="51,72" />
+  </subImageAsset>
+  <subImageAsset key="4ebdf176-1df6-4707-893d-f5295ea7ef0d">
+    <subImageElement frame="2866,1885,196,182" pivot="44,69" />
+  </subImageAsset>
+  <subImageAsset key="987e7794-b226-4b3b-a869-23a87aae30f1">
+    <subImageElement frame="569,3360,184,187" pivot="19,66.5" />
+  </subImageAsset>
+  <subImageAsset key="6e4a3807-c541-4949-bbb2-ae77a30bc074">
+    <subImageElement frame="1065,2039,237,186" pivot="-4.5,66" />
+  </subImageAsset>
+  <subImageAsset key="431cc36c-b141-47ff-bbe9-33fb9571ed1a">
+    <subImageElement frame="1462,1310,246,194" pivot="-32,47" />
+  </subImageAsset>
+  <subImageAsset key="eed64bb8-db6c-451c-a5d6-b22c35dd6135">
+    <subImageElement frame="1861,412,173,239" pivot="26.5,28.5" />
+  </subImageAsset>
+  <subImageAsset key="c2f0aedd-1a71-45d0-87e0-dbc013baf698">
+    <subImageElement frame="1698,1680,244,226" pivot="44,35" />
+  </subImageAsset>
+  <subImageAsset key="f5aaa2fd-1d3a-4bf0-8bd3-866ad26b10ab">
+    <subImageElement frame="941,211,269,215" pivot="50.5,40.5" />
+  </subImageAsset>
+  <subImageAsset key="3e9e755f-43e8-41fa-87e8-fe19635ff268">
+    <subImageElement frame="941,0,269,210" pivot="49.5,44" />
+  </subImageAsset>
+  <subImageAsset key="5825e4cf-8882-4e4e-8733-6c14ea9fa11d">
+    <subImageElement frame="1205,1343,256,207" pivot="46,45.5" />
+  </subImageAsset>
+  <subImageAsset key="30b30c2f-8654-463e-aa3a-7a2d69dfce40">
+    <subImageElement frame="0,2036,237,215" pivot="42.5,42.5" />
+  </subImageAsset>
+  <subImageAsset key="da155477-4415-4b7d-9111-dd75e6043078">
+    <subImageElement frame="1105,2226,196,233" pivot="33,34.5" />
+  </subImageAsset>
+  <subImageAsset key="f1424560-c69e-437f-82a3-b73e6b67c691">
+    <subImageElement frame="1468,0,170,246" pivot="35,28" />
+  </subImageAsset>
+  <subImageAsset key="ee597ef2-ade1-47db-b0bf-4e1918ea28b9">
+    <subImageElement frame="588,2425,185,232" pivot="18.5,36" />
+  </subImageAsset>
+  <subImageAsset key="041b672f-708f-4fe2-90ab-6e1a26676cc9">
+    <subImageElement frame="190,3278,189,176" pivot="-21.5,57" />
+  </subImageAsset>
+  <subImageAsset key="32f8568a-12b1-412d-934c-9abc8bb2f324">
+    <subImageElement frame="2164,3339,183,187" pivot="-25.5,51.5" />
+  </subImageAsset>
+  <subImageAsset key="f41e6049-9da0-42cc-a222-373474291910">
+    <subImageElement frame="782,3169,189,190" pivot="-27.5,49" />
+  </subImageAsset>
+  <subImageAsset key="ab4d17f7-a2ab-4e32-8581-1f6c7ee32354">
+    <subImageElement frame="1674,2724,213,167" pivot="-26.5,66.5" />
+  </subImageAsset>
+  <subImageAsset key="eea607fd-8679-42ad-85f3-7246e8733fea">
+    <subImageElement frame="2916,2597,195,177" pivot="1.5,76.5" />
+  </subImageAsset>
+  <subImageAsset key="dc853a98-8562-49d1-afcc-4ee8b222d5d3">
+    <subImageElement frame="663,2658,215,172" pivot="61.5,74" />
+  </subImageAsset>
+  <subImageAsset key="d6798fd8-d744-42d7-b205-50bd7e37ef78">
+    <subImageElement frame="2493,2962,201,176" pivot="64.5,77" />
+  </subImageAsset>
+  <subImageAsset key="17371a95-3e86-4a10-99a2-391021d137ef">
+    <subImageElement frame="2987,695,194,176" pivot="60,77" />
+  </subImageAsset>
+  <subImageAsset key="272a6f25-dfe8-4dea-ab55-9bfdd804f024">
+    <subImageElement frame="2869,3196,189,175" pivot="58.5,75.5" />
+  </subImageAsset>
+  <subImageAsset key="e8738a9d-d6ce-4400-947a-fadab1a49ca3">
+    <subImageElement frame="1728,3470,181,173" pivot="55.5,73.5" />
+  </subImageAsset>
+  <subImageAsset key="0f02e3eb-7a8b-4f30-868a-4cccd9455772">
+    <subImageElement frame="3059,3196,184,174" pivot="55,69" />
+  </subImageAsset>
+  <subImageAsset key="1d9fe20c-bb29-44c4-840d-9850c6e65706">
+    <subImageElement frame="1008,3026,200,174" pivot="50,63" />
+  </subImageAsset>
+  <subImageAsset key="e076e463-78c7-4284-a718-fe25eba897bd">
+    <subImageElement frame="2509,2782,206,179" pivot="-7,65.5" />
+  </subImageAsset>
+  <subImageAsset key="6a55cb1e-957c-4bc2-b4c2-d4dd4272f9ec">
+    <subImageElement frame="331,998,305,159" pivot="-44.5,55.5" />
+  </subImageAsset>
+  <subImageAsset key="1368c712-8ace-41a0-a3eb-a192a4950f04">
+    <subImageElement frame="1711,412,149,241" pivot="-10.5,21.5" />
+  </subImageAsset>
+  <subImageAsset key="6c6db223-8edd-4aab-9dc4-6432dfe4a379">
+    <subImageElement frame="1709,1402,125,240" pivot="15.5,23" />
+  </subImageAsset>
+  <subImageAsset key="84906215-6b3a-4caf-bcba-9c15328e94a7">
+    <subImageElement frame="1540,2288,155,233" pivot="18.5,26.5" />
+  </subImageAsset>
+  <subImageAsset key="bc2573cc-2ebb-456b-ba93-3e190accd00b">
+    <subImageElement frame="774,2425,158,231" pivot="20,28.5" />
+  </subImageAsset>
+  <subImageAsset key="b3cfa41a-f824-41fe-a118-22ee037d0672">
+    <subImageElement frame="949,2226,155,234" pivot="22.5,29" />
+  </subImageAsset>
+  <subImageAsset key="8ad969e2-f937-473d-9e16-a35190fc0be9">
+    <subImageElement frame="1884,0,150,238" pivot="28,28" />
+  </subImageAsset>
+  <subImageAsset key="3b8a0aa5-7702-4cab-9bd0-f91f64464106">
+    <subImageElement frame="1467,247,149,245" pivot="26.5,24.5" />
+  </subImageAsset>
+  <subImageAsset key="3645c08c-614f-4924-b1e4-0811201598eb">
+    <subImageElement frame="1835,1402,185,239" pivot="-2.5,27.5" />
+  </subImageAsset>
+  <subImageAsset key="3175b692-5653-45fe-896d-43e0ec8a5e36">
+    <subImageElement frame="2408,329,192,211" pivot="-28,40.5" />
+  </subImageAsset>
+  <subImageAsset key="c3204420-9d96-49c9-9334-7eaa1d72397c">
+    <subImageElement frame="1299,2892,204,165" pivot="-16,61.5" />
+  </subImageAsset>
+  <subImageAsset key="8232cbc8-45cb-40be-824a-18e8aa6eeb66">
+    <subImageElement frame="2585,883,203,166" pivot="-19.5,62" />
+  </subImageAsset>
+  <subImageAsset key="fd9f47e7-5693-4c41-af48-1790917ba62a">
+    <subImageElement frame="2357,1444,211,167" pivot="-21.5,62.5" />
+  </subImageAsset>
+  <subImageAsset key="00d0b171-5976-4882-bb83-d26ff47f3a32">
+    <subImageElement frame="2601,359,201,158" pivot="-3.5,68" />
+  </subImageAsset>
+  <subImageAsset key="72f5cbef-aadd-4827-b587-60b5a6a1ba88">
+    <subImageElement frame="3112,2451,183,158" pivot="18.5,72" />
+  </subImageAsset>
+  <subImageAsset key="cad3655a-092f-4729-a8bd-b1d0b15f57e6">
+    <subImageElement frame="2357,1612,210,166" pivot="59,76" />
+  </subImageAsset>
+  <subImageAsset key="ddb9bccb-e7c7-4bbb-8a8b-3c376c55d0f2">
+    <subImageElement frame="1542,3395,185,165" pivot="46.5,75.5" />
+  </subImageAsset>
+  <subImageAsset key="5d4a9946-4408-44c3-a2ce-91abe42aef21">
+    <subImageElement frame="3063,1938,184,163" pivot="44,74.5" />
+  </subImageAsset>
+  <subImageAsset key="2d6424e3-f9a9-42a0-a0af-f80874af6ed3">
+    <subImageElement frame="2316,168,212,160" pivot="40,73" />
+  </subImageAsset>
+  <subImageAsset key="417504ea-d020-4d9e-89ce-823270d5615b">
+    <subImageElement frame="2475,0,207,158" pivot="44.5,72" />
+  </subImageAsset>
+  <subImageAsset key="51648731-2c7a-42c8-a8c1-9bc31d732f27">
+    <subImageElement frame="3063,1772,184,165" pivot="41,67.5" />
+  </subImageAsset>
+  <subImageAsset key="8bbd75a1-8880-4289-80f1-47729c50f2c9">
+    <subImageElement frame="2618,1050,201,169" pivot="52.5,63.5" />
+  </subImageAsset>
+  <subImageAsset key="438b24ab-c006-4fac-8cc5-e84a39af4cb0">
+    <subImageElement frame="0,3108,192,169" pivot="27,63.5" />
+  </subImageAsset>
+  <subImageAsset key="c9594b64-a2c9-42c7-b5f4-c8970a103b2e">
+    <subImageElement frame="639,489,303,155" pivot="-46.5,56.5" />
+  </subImageAsset>
+  <subImageAsset key="35543008-5e92-4455-83b2-f2c242ce6864">
+    <subImageElement frame="1303,2218,236,214" pivot="-54,31" />
+  </subImageAsset>
+  <subImageAsset key="4c75276e-912e-4388-bce4-9bfe6690cf60">
+    <subImageElement frame="398,2422,189,232" pivot="-35.5,24" />
+  </subImageAsset>
+  <subImageAsset key="0379cc19-7a31-4f9c-bdab-20b40f5c087f">
+    <subImageElement frame="1777,2259,162,233" pivot="-25,24.5" />
+  </subImageAsset>
+  <subImageAsset key="07ae001f-42fb-4d59-8929-82f168e8136a">
+    <subImageElement frame="237,2352,160,232" pivot="-22,26" />
+  </subImageAsset>
+  <subImageAsset key="23f7104c-5679-418f-965b-bfd3541feafa">
+    <subImageElement frame="1105,2460,169,231" pivot="-21.5,26.5" />
+  </subImageAsset>
+  <subImageAsset key="e290d8ea-afa0-46bc-9c93-80cd01efbc3c">
+    <subImageElement frame="1940,2259,179,230" pivot="-23.5,27" />
+  </subImageAsset>
+  <subImageAsset key="a1e63f09-659f-4df3-b12a-fa9574ba273b">
+    <subImageElement frame="1951,881,199,226" pivot="-32.5,28" />
+  </subImageAsset>
+  <subImageAsset key="a879deb5-78a1-48fb-9d00-421bbd8066f7">
+    <subImageElement frame="2071,2490,224,212" pivot="-39,36" />
+  </subImageAsset>
+  <subImageAsset key="f4f14347-6024-4730-a726-f1ec42cab70e">
+    <subImageElement frame="0,2581,229,182" pivot="-33.5,53" />
+  </subImageAsset>
+  <subImageAsset key="9f1dfab3-8436-48cd-9cfe-ac3788d149e2">
+    <subImageElement frame="380,3346,188,158" pivot="-7,65" />
+  </subImageAsset>
+  <subImageAsset key="63add3ea-747e-4a47-9b34-af80ef6b11c9">
+    <subImageElement frame="2091,3147,191,159" pivot="-5.5,65.5" />
+  </subImageAsset>
+  <subImageAsset key="aa3c8e2d-a3cc-46a7-8838-c410fc5bc5af">
+    <subImageElement frame="2716,2658,198,158" pivot="-6,65" />
+  </subImageAsset>
+  <subImageAsset key="1720e14a-5782-4a78-99dd-5533e997b764">
+    <subImageElement frame="2283,2988,201,158" pivot="-2.5,65" />
+  </subImageAsset>
+  <subImageAsset key="10bc0f79-4860-4506-be02-fa55ffe85832">
+    <subImageElement frame="2509,2615,206,166" pivot="56,69" />
+  </subImageAsset>
+  <subImageAsset key="4ba09fa3-46a9-4b02-8db9-28e40379ca60">
+    <subImageElement frame="0,3460,181,166" pivot="40.5,69" />
+  </subImageAsset>
+  <subImageAsset key="6a4354eb-feb2-4c1f-8436-60558ad85b91">
+    <subImageElement frame="2866,2068,195,162" pivot="38.5,67" />
+  </subImageAsset>
+  <subImageAsset key="4a8447ba-3cf4-4a27-a594-1e604e2856e2">
+    <subImageElement frame="230,2658,216,158" pivot="36,65" />
+  </subImageAsset>
+  <subImageAsset key="277b1a27-c497-4310-9c5b-267f04527f2a">
+    <subImageElement frame="1709,1246,240,155" pivot="30,63.5" />
+  </subImageAsset>
+  <subImageAsset key="d2e5e3dd-e2e1-44fe-9eef-704cee83f980">
+    <subImageElement frame="1709,1092,241,153" pivot="32.5,62.5" />
+  </subImageAsset>
+  <subImageAsset key="864ead61-cc0f-4959-b46b-42408487f99f">
+    <subImageElement frame="238,2039,237,153" pivot="35.5,62.5" />
+  </subImageAsset>
+  <subImageAsset key="41c8356e-c0ab-4032-ab3e-76320900235d">
+    <subImageElement frame="2510,2326,206,155" pivot="29,63.5" />
+  </subImageAsset>
+  <subImageAsset key="1614439b-08f8-4269-9ea8-30c10a15d83c">
+    <subImageElement frame="2120,2249,222,160" pivot="58,66" />
+  </subImageAsset>
+  <subImageAsset key="82978549-bf2e-4a3d-bbbd-d756abdc310c">
+    <subImageElement frame="475,2274,235,147" pivot="-37.5,59.5" />
+  </subImageAsset>
+  <subImageAsset key="ba05a544-905f-4662-bab9-1ed105678cf2">
+    <subImageElement frame="333,489,305,164" pivot="-67.5,53" />
+  </subImageAsset>
+  <subImageAsset key="acf9c243-fc81-4dcd-bf7f-e51eac3d53f2">
+    <subImageElement frame="638,1728,274,191" pivot="-66,39.5" />
+  </subImageAsset>
+  <subImageAsset key="25e65b53-884f-4c3e-9921-a0cac42c4cbc">
+    <subImageElement frame="1211,341,254,200" pivot="-63,37" />
+  </subImageAsset>
+  <subImageAsset key="12d01c96-ca08-4aa4-ab65-56a38548ff0d">
+    <subImageElement frame="1452,1108,250,201" pivot="-60,39.5" />
+  </subImageAsset>
+  <subImageAsset key="05862902-cf77-4b0a-a192-19a592dff951">
+    <subImageElement frame="1458,907,250,200" pivot="-57,41" />
+  </subImageAsset>
+  <subImageAsset key="c5ab915b-2af7-4c91-9fe2-2c516be7eab5">
+    <subImageElement frame="1211,705,253,201" pivot="-53.5,42.5" />
+  </subImageAsset>
+  <subImageAsset key="5fac5259-68a1-47f6-b55c-a0fc89cfabe4">
+    <subImageElement frame="1190,1147,261,195" pivot="-50.5,45.5" />
+  </subImageAsset>
+  <subImageAsset key="fe0c9c8f-a0e7-4b79-8edd-e13d12a0e25c">
+    <subImageElement frame="943,427,267,178" pivot="-48.5,55" />
+  </subImageAsset>
+  <subImageAsset key="0114f253-c18e-46bd-8cf1-ce46f6d1dc55">
+    <subImageElement frame="238,2193,236,158" pivot="-29,65" />
+  </subImageAsset>
+  <subImageAsset key="1a7ed371-75ff-487c-865d-40069af733fd">
+    <subImageElement frame="2986,873,194,161" pivot="-26,61.5" />
+  </subImageAsset>
+  <subImageAsset key="ddc156d0-33f9-4e24-b660-158caa83587d">
+    <subImageElement frame="807,3008,200,160" pivot="-21,61" />
+  </subImageAsset>
+  <subImageAsset key="d8c6d863-6a7b-4c68-85a3-cec195fec0d9">
+    <subImageElement frame="2569,1340,202,161" pivot="-17,61.5" />
+  </subImageAsset>
+  <subImageAsset key="1af87abf-980d-4546-92a8-ba4162c5f6bb">
+    <subImageElement frame="389,3178,191,167" pivot="-11.5,64.5" />
+  </subImageAsset>
+  <subImageAsset key="5bb73188-917f-4bec-aa48-c2944325a85d">
+    <subImageElement frame="1927,1907,225,167" pivot="57.5,64.5" />
+  </subImageAsset>
+  <subImageAsset key="4bd035a0-5c09-47dc-b23e-9c7af21377f8">
+    <subImageElement frame="1788,3307,189,162" pivot="29.5,62" />
+  </subImageAsset>
+  <subImageAsset key="3868496f-9806-4196-ade9-09b9c56f58cf">
+    <subImageElement frame="1703,3048,198,156" pivot="23,59" />
+  </subImageAsset>
+  <subImageAsset key="18f197aa-2a39-4ca0-95f6-e38944f04f55">
+    <subImageElement frame="2683,0,200,158" pivot="14,60" />
+  </subImageAsset>
+  <subImageAsset key="9ce328c7-01e2-46f5-b1a2-482ae3e89235">
+    <subImageElement frame="2239,1999,213,159" pivot="7.5,60.5" />
+  </subImageAsset>
+  <subImageAsset key="94509106-f773-4458-a798-bc02ce2c5880">
+    <subImageElement frame="2151,862,219,159" pivot="8.5,60.5" />
+  </subImageAsset>
+  <subImageAsset key="4a5ae56c-8747-4e0a-93ba-90ea46737606">
+    <subImageElement frame="476,2115,236,158" pivot="15,60" />
+  </subImageAsset>
+  <subImageAsset key="bbebda67-9492-4fa5-8aab-140e581abde5">
+    <subImageElement frame="640,331,250,155" pivot="21,58.5" />
+  </subImageAsset>
+  <subImageAsset key="41e57124-1b6d-4f65-bc73-d6c1cf993b0b">
+    <subImageElement frame="1617,247,245,164" pivot="50.5,62" />
+  </subImageAsset>
+  <subImageAsset key="1eada4a9-0443-43d9-a240-7349f10534da">
+    <subImageElement frame="0,3627,158,163" pivot="-34,61.5" />
+  </subImageAsset>
+  <subImageAsset key="45c2a182-939d-4067-99e9-9e494e80d0f8">
+    <subImageElement frame="0,512,332,158" pivot="-71,59" />
+  </subImageAsset>
+  <subImageAsset key="ea3d41e0-9429-4918-bae5-3afe909cf100">
+    <subImageElement frame="0,671,331,161" pivot="-76.5,60.5" />
+  </subImageAsset>
+  <subImageAsset key="57fd8038-16d5-4291-8be8-9340a4fdf8b5">
+    <subImageElement frame="319,1876,318,162" pivot="-77,61" />
+  </subImageAsset>
+  <subImageAsset key="618f317d-3cb8-4429-a1bc-1e6e4afc48bb">
+    <subImageElement frame="324,1343,313,164" pivot="-74.5,62" />
+  </subImageAsset>
+  <subImageAsset key="42829cc8-94ed-43d8-8079-6b905efa85bd">
+    <subImageElement frame="331,833,310,164" pivot="-72,62" />
+  </subImageAsset>
+  <subImageAsset key="5d06b1b7-55c0-472b-babe-50c756949150">
+    <subImageElement frame="334,0,306,164" pivot="-69,62" />
+  </subImageAsset>
+  <subImageAsset key="5b5e56f7-159a-4493-85a5-862d3f19afe7">
+    <subImageElement frame="641,167,299,163" pivot="-62.5,62.5" />
+  </subImageAsset>
+  <subImageAsset key="d6b37f28-c382-44d0-a767-ec40ce1229cf">
+    <subImageElement frame="942,984,263,162" pivot="-45.5,62" />
+  </subImageAsset>
+  <subImageAsset key="f123e25f-d13f-43f4-a562-fed652878174">
+    <subImageElement frame="2697,518,199,162" pivot="-18.5,62" />
+  </subImageAsset>
+</rootImageAsset>

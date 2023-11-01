@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<materialAsset version="100" format="Repeat,Repeat,Repeat,LinearMipmapLinear,Linear,00000000,10" colorEncoding="HighSample" normalEncoding="High" materialEncoding="High" emissiveEncoding="HighSample" hasRoughness="True">
+  <material local="True" />
+  <scene key="TGUoiMwykkO5jJhL+dxrmw">
+    <environment key="zzLpQcJiVUaxNOOOStUWow" preferenceConfig="Default" lightConfig="Default"/>
+    <ground key="N0DzjuO3ykufY7sBk/+95g" config="Default"/>
+    <material key="vlEhps/35069Sme8kxjGyw" located="True" transform=",,0,0,100,0,0,0,1,1,1,1,False" asset="09e06375-00b9-4f39-a74a-581f2fdbd3a0" />
+  </scene>
+</materialAsset>

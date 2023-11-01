@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rootImageAsset version="100" encoding="Rgba8" format="ClampToEdge,ClampToEdge,ClampToEdge,Linear,Linear,00000000,1">
+  <subImageAsset key="4799a0b4-5d70-4a9f-9627-d482e6de08e2">
+    <subImageElement frame="0,0,128,128" />
+  </subImageAsset>
+  <subImageAsset key="2fd469f8-bcc1-48b5-9738-4cb593060fc0">
+    <subImageElement frame="129,0,128,128" />
+  </subImageAsset>
+  <subImageAsset key="4477495c-c986-43ee-8a35-55374bb8dad6">
+    <subImageElement frame="258,0,128,128" />
+  </subImageAsset>
+  <subImageAsset key="55197c5a-d477-4af0-ae51-34688917cbe0">
+    <subImageElement frame="387,0,128,128" />
+  </subImageAsset>
+  <subImageAsset key="ed2872ac-7c7a-4689-a619-0696c314bb81">
+    <subImageElement frame="516,0,128,128" />
+  </subImageAsset>
+  <subImageAsset key="3fe6f1ff-81bf-4456-9b3a-8fc3d856233e">
+    <subImageElement frame="645,0,128,128" />
+  </subImageAsset>
+</rootImageAsset>

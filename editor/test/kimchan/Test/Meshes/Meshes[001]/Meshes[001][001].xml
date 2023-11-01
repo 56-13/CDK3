@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meshAsset version="100" scale="0.01" axis="YUp">
+  <imports>
+    <import name="hoewa_Forsteriana" extension="fbx" geometry="True" />
+  </imports>
+  <geometries>
+    <geometry name="hoewa_Forsteriana" />
+  </geometries>
+  <animations />
+  <selection geometry="hoewa_Forsteriana">
+    <material origin="ea32ff1f-f4b7-4fce-a78e-f8f2e7ffe766" />
+    <material origin="b3f2f4e7-e6a9-40ca-8bd6-abec665a4e60" />
+  </selection>
+</meshAsset>

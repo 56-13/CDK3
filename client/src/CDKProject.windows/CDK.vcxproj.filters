@@ -1,0 +1,1884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\CDK">
+      <UniqueIdentifier>{17a8d98a-7f55-4a95-abf3-70508d4e0568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base">
+      <UniqueIdentifier>{30731b60-3026-4101-bced-07e1b69ef3f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Platform">
+      <UniqueIdentifier>{dd199916-6192-448d-9b32-3ae4e173d32d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Platform\windows">
+      <UniqueIdentifier>{0537ad83-df52-40a2-96ed-801efda021ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Platform\windows\sys">
+      <UniqueIdentifier>{54f75268-011d-4965-83c8-8bade199e784}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Core">
+      <UniqueIdentifier>{3d64eb65-8ec1-4f6e-8628-3dc93b766973}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Collections">
+      <UniqueIdentifier>{ce06ff7c-f7c0-407f-b1eb-3da5adf68315}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations">
+      <UniqueIdentifier>{75110afd-4706-4215-8d92-b4770fcb41c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations\Particle">
+      <UniqueIdentifier>{1502d576-025f-4237-8457-038092003050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations\Particle\Shapes">
+      <UniqueIdentifier>{8395eb76-05c7-4128-9dd2-c47e12b0fcda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations\Sprite">
+      <UniqueIdentifier>{d5f456d2-7ae6-49eb-aa10-7b8bcd70d4ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations\Trail">
+      <UniqueIdentifier>{3e13056a-ba4a-4179-bd2a-528c0e05fb6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics">
+      <UniqueIdentifier>{f582c5bb-f0fe-491b-b538-635a6337ef3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Base">
+      <UniqueIdentifier>{b4d63c0d-317d-42b9-a2a4-bd9199f3d0d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Camera">
+      <UniqueIdentifier>{8bb9e690-d772-45da-afc4-43a11920b389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Interface">
+      <UniqueIdentifier>{1a4f993c-5bae-4fb8-84d3-bc98d2d9b45f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\IO">
+      <UniqueIdentifier>{c8d2677d-d1b0-4d8b-a3c0-c4bad61317e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Security">
+      <UniqueIdentifier>{4c201d75-a843-4e5c-8876-d052fb6f056f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Utilities">
+      <UniqueIdentifier>{0ed6771a-ad11-4fb2-88ad-50e96c935946}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Diagnostics">
+      <UniqueIdentifier>{467be115-4d2b-44ca-9788-9743f9b08d15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Audio">
+      <UniqueIdentifier>{36f260e9-93b6-4772-9dde-6d9518088ffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="미리 컴파일된 헤더">
+      <UniqueIdentifier>{fa5431c8-c4b9-4247-8173-b601f3ca5f29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Network">
+      <UniqueIdentifier>{22fc4a95-13fb-45d7-8a46-d4df6c26a556}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Geometry">
+      <UniqueIdentifier>{a5dd0e7e-0161-4973-a6c2-3192e26b572a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Geometry\Collision">
+      <UniqueIdentifier>{8160207e-73c3-4164-897f-06a1acf1741e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Geometry\Physics">
+      <UniqueIdentifier>{4ae11d3b-c86d-410a-a201-f2cf01a50bf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Lighting">
+      <UniqueIdentifier>{07855bdd-8e55-4175-9bb6-e46bb52b5bf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Meshing">
+      <UniqueIdentifier>{c6411fce-0ab3-440b-a3aa-44b62821ca81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Lighting\Elements">
+      <UniqueIdentifier>{fcba7a38-128f-49ac-8425-1689ed89e27e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps">
+      <UniqueIdentifier>{4e4aebfc-e569-4d98-b7e8-c6933dbc54fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Buffering">
+      <UniqueIdentifier>{bd5c22a8-ab83-4a04-9755-c72cdbfcd6c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Context">
+      <UniqueIdentifier>{45fe41b8-303d-4162-b5d1-d57f6cb5f69b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Rendering">
+      <UniqueIdentifier>{a18551a8-65de-4208-8c0c-8b4daeded634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Context\OpenGL">
+      <UniqueIdentifier>{cd49b162-9f74-41f2-917e-54aa7f5b4123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\String">
+      <UniqueIdentifier>{c218511c-f186-4974-b2a2-1037c5610898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Vertex">
+      <UniqueIdentifier>{144ffc74-0884-4ead-a9ca-04fbd7b7499d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Target">
+      <UniqueIdentifier>{7b8c474c-5a70-4efa-89e2-fa068fca62bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Texturing">
+      <UniqueIdentifier>{c28d8581-7f13-4c98-a982-da3502cdc5c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Shaders">
+      <UniqueIdentifier>{10de53db-47cf-4815-89e7-c24461a9eeb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Shaders\Base">
+      <UniqueIdentifier>{0bd71733-31d8-4c76-8504-29b3f7c5e5e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Shaders\Shaders">
+      <UniqueIdentifier>{f892b4c9-4d36-496f-bf2a-e19032889130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Shaders\Renderers">
+      <UniqueIdentifier>{d67654a5-db97-4d58-b91c-6bf3b0849881}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Graphics\Vertex\Elements">
+      <UniqueIdentifier>{ddc20fe3-6555-4899-9a26-53d3a2419bb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Scenes">
+      <UniqueIdentifier>{bb68cb81-206d-4ccd-bfe6-f739fb957631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations\Derivations">
+      <UniqueIdentifier>{dde66a3a-8ee7-4443-83e2-65314cfc68c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations\Components">
+      <UniqueIdentifier>{dc782867-1336-4ad0-a7c3-234406650e9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Animations\Sprite\Elements">
+      <UniqueIdentifier>{d5d924b6-3864-4a0f-9cf1-bac2fa1f6395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Scenes\Camera">
+      <UniqueIdentifier>{0b81d88f-e0cf-4a04-8701-a2f11be26f62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Scenes\Geometry">
+      <UniqueIdentifier>{d0823583-1f01-420b-b225-bb27fc697dd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Scenes\Environment">
+      <UniqueIdentifier>{bcb7b058-db5e-4277-a6b8-09b07aa3e281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CDK\Base\Scenes\Lighting">
+      <UniqueIdentifier>{926e1f59-4c0a-42e3-b027-9926d908e978}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CDK\Sources\CDK.h">
+      <Filter>소스 파일\CDK\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\CSConfig.h">
+      <Filter>소스 파일\CDK\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSCrypto.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSDevice.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSEncoder.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSFile.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSFileRawImpl.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSLog.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSMemory.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSRaster.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSSignal.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSTextFieldBridge.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSURLConnectionBridge.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSURLRequestBridge.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSVideoViewBridge.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\windows\CSFontImpl.h">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\windows\CSTextFieldImpl.h">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\windows\CSURLConnectionImpl.h">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\windows\CSURLRequestImpl.h">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSAutoreleasePool.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSCharSequence.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSFixed.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSHandler.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSLock.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSMacro.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSObject.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSTask.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSThread.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSTime.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSTypes.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSValue.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Collections\CSArray.h">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Collections\CSDictionary.h">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Collections\CSEntry.h">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Collections\CSQueue.h">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Collections\CSSet.h">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Collections\CSSortedDictionary.h">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Collections\CSSortedSet.h">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\CSGraphics.h">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\CSAnimationFragment.h">
+      <Filter>소스 파일\CDK\Base\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\CSAnimationDerivation.h">
+      <Filter>소스 파일\CDK\Base\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\CSParticle.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShape.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeBox.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeCircle.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeCone.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeHamisphere.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeRect.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeSphere.h">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\CSSprite.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Trail\CSTrail.h">
+      <Filter>소스 파일\CDK\Base\Animations\Trail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSColor.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSColor3.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSFont.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSMatrix.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSQuaternion.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSRect.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSVector2.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSVector3.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSVector4.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSZRect.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Camera\CSCamera.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSButton.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSKeyCode.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSLayer.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSLayerTransition.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSListBox.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSPopupCoverLayer.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSScroll.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSScrollPane.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSTextBox.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSTextField.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSTicker.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSTouch.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSVideoView.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSWebView.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\IO\CSBuffer.h">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\IO\CSBytes.h">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\IO\CSLogger.h">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Network\CSSocket.h">
+      <Filter>소스 파일\CDK\Base\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Network\CSURLConnection.h">
+      <Filter>소스 파일\CDK\Base\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Network\CSURLRequest.h">
+      <Filter>소스 파일\CDK\Base\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Security\CSSecret.h">
+      <Filter>소스 파일\CDK\Base\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Security\CSSecretValue.h">
+      <Filter>소스 파일\CDK\Base\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSFixedSinLut.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSJSONArray+array.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSJSONArray.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSJSONObject.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSJSONParser.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSJSONWriter+array.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSJSONWriter.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSMath.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSRandom.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationFloat.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationFloatConstant.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationFloatCurve.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationFloatLinear.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Diagnostics\CSDiagnostics.h">
+      <Filter>소스 파일\CDK\Base\Diagnostics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Audio\CSAudio.h">
+      <Filter>소스 파일\CDK\Base\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Build\pch.h">
+      <Filter>미리 컴파일된 헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\windows\CSAudioOgg.h">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\windows\CSAudioWave.h">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\windows\CSDeviceConfig.h">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Utilities\CSIAPDelegate.h">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\icu_compat.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSHalf.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSHalf2.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSHalf3.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSHalf4.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSABoundingBox.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSBoundingFrustum.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSBoundingSphere.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSPlane.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSRay.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSOBoundingBox.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSBoundingCapsule.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSSegment.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSTriangle.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSBoundingMesh.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\Elements\CSDirectionalLight.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\Elements\CSLightAttenuation.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\Elements\CSPointLight.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\Elements\CSShadow.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\Elements\CSSpotLight.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\CSLightSpace.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\ShadowMaps\CSDirectionalShadowMap.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\ShadowMaps\CSPointShadowMap.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\ShadowMaps\CSSpotShadowMap.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Lighting\CSLightSpaceState.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSGEnums.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Buffering\CSGBuffer.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Buffering\CSGBufferData.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Buffering\CSGBuffers.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Buffering\CSGBufferSlice.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Context\CSGraphicsApi.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Context\CSGraphicsContext.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Rendering\CSDelegateRenderCommand.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Rendering\CSRenderCommand.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Rendering\CSRenderFrame.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Rendering\CSRenderQueue.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Rendering\CSStaticRenderCommand.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Rendering\CSStreamRenderCommand.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\String\CSGlyphs.h">
+      <Filter>소스 파일\CDK\Base\Graphics\String</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\String\CSStringDisplay.h">
+      <Filter>소스 파일\CDK\Base\Graphics\String</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSResource.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSResourcePool.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\CSRenderer.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\CSRenderers.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\CSRenderState.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\CSShaderCode.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\CSShaders.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Base\CSProgram.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Base\CSProgramBranch.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Base\CSShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSDistortionRenderer.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSShadow2DRenderer.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSShadowRenderer.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSStandardRenderer.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSBlitShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSBlurShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSEmptyShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSLensShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSPostProcessShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSSkyboxShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSStrokeShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSWaveShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSImage.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSMaterial.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSTexture.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSTextureDescription.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSTextures.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSTextureScratch.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Target\CSRenderBuffer.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Target\CSRenderTarget.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Target\CSRenderTargetDescription.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Target\CSRenderTargets.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\CSVertexArray.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\CSVertexArrayDraw.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\CSVertexArrayInstance.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\CSVertexArrays.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\CSVertexLayout.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertex.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexC.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexCN.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexCT.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexCTN.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexN.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexT.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexTN.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexTNT.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Vertex\Elements\CSFVertex.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSLocaleString.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Context\OpenGL\CSOpenGLContext.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Context\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Meshing\CSMeshFragment.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Meshing\CSMeshGeometry.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Meshing\CSMeshNode.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Meshing\CSMeshAnimation.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Meshing\CSMesh.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Meshing\CSMeshObject.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\CSSceneObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\CSGizmo.h">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\CSAnimation.h">
+      <Filter>소스 파일\CDK\Base\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationColor.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationEmission.h">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationLinked.h">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationMulti.h">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationRandom.h">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationLoop.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationSource.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSMaterialSource.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\CSScene.h">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Meshing\CSMeshBuilder.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\CSQuadTree.h">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationSourceImage.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationSourceMesh.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\CSSpriteTimeline.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\CSSpriteElement.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementImage.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementMesh.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementLine.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientLine.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementRect.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientRect.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementArc.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientArc.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementSphere.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementBox.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementTranslate.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementRotate.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementScale.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementInvert.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementColor.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementStroke.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementBrightness.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementContrast.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementSaturation.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementBlur.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementLens.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementWave.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementExtern.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementString.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementRoundRect.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientRoundRect.h">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSFixed2.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSFixed3.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSFixed4.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\CSGraphicsResource.h">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSTerrainShader.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationColorConstant.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationColorLinear.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Animations\Components\CSAnimationColorChannel.h">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\IO\CSData.h">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\CSUpdatePass.h">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Platform\CSApplicationBridge.h">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Interface\CSApplication.h">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Target\CSRenderBufferDescription.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Target\CSRenderBuffers.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSBounds2.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSBounds3.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSInt2.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSInt3.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Base\CSInt4.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Context\OpenGL\CSOpenGLApi.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Context\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Camera\CSCameraObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Environment\CSGround.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Environment\CSSceneEnv.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Environment\CSScenePref.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Environment\CSTerrain.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Environment\CSWorld.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Lighting\CSDirectionalLightObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Lighting\CSPointLightObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Lighting\CSSpotLightObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Geometry\CSCollider.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Geometry\CSBoxObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Geometry\CSSphereObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Scenes\Geometry\CSCapsuleObject.h">
+      <Filter>소스 파일\CDK\Base\Scenes\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSStringBuilder.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSString.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSStringContentTable.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSStringContent.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Core\CSStringLiteral.h">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CDK\Sources\Graphics\Texturing\CSImageObject.h">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\CDK\Sources\Platform\CSFileRawImpl.cpp">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\CSLog+common.cpp">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\CSMemory.cpp">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSCrypto.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSDevice.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSEncoder.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSFile.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSFontImpl.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSLog.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSRaster.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSSignal.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSTextFieldBridge.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSTextFieldImpl.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSURLConnectionBridge.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSURLConnectionImpl.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSURLRequestBridge.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSURLRequestImpl.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSVideoViewBridge.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSWebViewBridge.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\main.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\sys\time.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows\sys</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSAutoreleasePool.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSCharSequence.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSFixed.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSLock.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSObject.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSTask.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSThread.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSTime.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics+String.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics+FX.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics+Globalization.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics+Image.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics+Shape.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics+StringParam.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\CSAnimationFragment.cpp">
+      <Filter>소스 파일\CDK\Base\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\CSAnimationDerivation.cpp">
+      <Filter>소스 파일\CDK\Base\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\CSParticle.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShape.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeBox.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeCircle.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeCone.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeHamisphere.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeRect.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Particle\Shapes\CSParticleShapeSphere.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Particle\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\CSSprite.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Trail\CSTrail.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Trail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSColor.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSColor3.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSFont.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSMatrix+billboard.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSMatrix.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSQuaternion.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSRect.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSVector2.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSVector3.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSVector4.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSZRect.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Camera\CSCamera.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSButton.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSLayer.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSListBox.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSPopupCoverLayer.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSScroll.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSScrollPane.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSTextBox.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSTextField.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSTicker.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSTouch.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSVideoView.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSWebView.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\IO\CSBuffer.cpp">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\IO\CSBytes.cpp">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\IO\CSLogger.cpp">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Network\CSSocket.cpp">
+      <Filter>소스 파일\CDK\Base\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Network\CSURLConnection.cpp">
+      <Filter>소스 파일\CDK\Base\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Network\CSURLRequest.cpp">
+      <Filter>소스 파일\CDK\Base\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Security\CSSecret.cpp">
+      <Filter>소스 파일\CDK\Base\Security</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Utilities\CSJSONArray.cpp">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Utilities\CSJSONObject.cpp">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Utilities\CSJSONParser.cpp">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Utilities\CSJSONWriter.cpp">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Utilities\CSMath.cpp">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Utilities\CSRandom.cpp">
+      <Filter>소스 파일\CDK\Base\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationFloat.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationFloatConstant.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationFloatCurve.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationFloatLinear.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Diagnostics\CSDiagnostics.cpp">
+      <Filter>소스 파일\CDK\Base\Diagnostics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Build\pch.cpp">
+      <Filter>미리 컴파일된 헤더</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSAudio.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSAudioOgg.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSAudioWave.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSDeviceConfig.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\windows\CSLocalNotification.cpp">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Platform\icu_compat.cpp">
+      <Filter>소스 파일\CDK\Base\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSHalf.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSHalf2.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSHalf3.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSHalf4.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSABoundingBox.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSBoundingFrustum.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSBoundingSphere.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSPlane.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSRay.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSOBoundingBox.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSBoundingCapsule.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSBoundingMesh.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSSegment.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSTriangle.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+ABox.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+OBox.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Ray.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Plane.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Sphere.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Capsule.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Mesh.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Segment.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Triangle.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\Collision\CSCollision+Frustum.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\Elements\CSDirectionalLight.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\Elements\CSLightAttenuation.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\Elements\CSPointLight.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\Elements\CSShadow.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\Elements\CSSpotLight.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\ShadowMaps\CSDirectionalShadowMap.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\ShadowMaps\CSPointShadowMap.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\ShadowMaps\CSSpotShadowMap.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\CSLightSpace.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\ShadowMaps\CSDirectionalShadowMap+View.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting\ShadowMaps</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\CSLightSpace+Directional.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\CSLightSpace+Point.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\CSLightSpace+Spot.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\CSLightSpace+Cluster.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSGEnums.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Buffering\CSGBuffer.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Buffering\CSGBufferData.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Buffering\CSGBuffers.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Buffering\CSGBufferSlice.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Buffering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Rendering\CSDelegateRenderCommand.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Rendering\CSRenderFrame.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Rendering\CSRenderQueue.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Rendering\CSStaticRenderCommand.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Rendering\CSStreamRenderCommand.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\String\CSGlyphs.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\String</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\String\CSStringDisplay.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\String</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSResourcePool.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\CSRenderState.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\CSShaderCode.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\CSShaders.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Base\CSProgram.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Base\CSProgramBranch.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Base\CSShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSDistortionRenderer.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSShadow2DRenderer.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSShadowRenderer.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Renderers\CSStandardRenderer.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Renderers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSBlitShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSBlurShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSEmptyShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSLensShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSPostProcessShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSSkyboxShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSStrokeShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSWaveShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSImage.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSMaterial.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSTexture.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSTextureDescription.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSTextures.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSTextureScratch.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Target\CSRenderBuffer.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Target\CSRenderTarget.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Target\CSRenderTargetDescription.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Target\CSRenderTargets.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\CSVertexArray.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\CSVertexArrayDraw.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\CSVertexArrayInstance.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\CSVertexArrays.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\CSVertexArrays+Shape.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\CSVertexLayout.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertex.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexC.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexCN.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexCT.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexCTN.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexN.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexT.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexTN.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSVertexTNT.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\CSRenderers.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Vertex\Elements\CSFVertex.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Vertex\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSLocaleString.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Context\OpenGL\CSOpenGLContext.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Context\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Context\CSGraphicsContext.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Context</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Context\OpenGL\CSOpenGLApi.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Context\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphics+Initialize.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Meshing\CSMeshFragment.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Meshing\CSMeshNode.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Meshing\CSMeshGeometry.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Meshing\CSMeshAnimation.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Meshing\CSMesh.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Meshing\CSMeshObject.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Collections\CSEntry.cpp">
+      <Filter>소스 파일\CDK\Base\Collections</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationColor.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationEmission.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationLinked.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationMulti.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Derivations\CSAnimationDerivationRandom.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Derivations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationLoop.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationSource.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSMaterialSource.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\CSSceneObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\CSGizmo.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\CSAnimation.cpp">
+      <Filter>소스 파일\CDK\Base\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Meshing\CSMeshBuilder.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Meshing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\CSQuadTree.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\CSSceneObject+Builder.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationSourceImage.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationSourceMesh.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\CSSpriteTimeline.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementImage.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementMesh.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementLine.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientLine.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementRect.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientRect.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementArc.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientArc.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementSphere.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementBox.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementTranslate.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementRotate.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementScale.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementInvert.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementColor.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementStroke.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementBrightness.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementContrast.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementSaturation.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementBlur.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementLens.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementWave.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementExtern.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementString.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementRoundRect.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\Elements\CSSpriteElementGradientRoundRect.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Sprite\CSSpriteElement.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\CSScene.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSFixed2.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSFixed3.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSFixed4.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Lighting\CSLightSpaceState.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\CSGraphicsResource.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Shaders\Shaders\CSTerrainShader.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Shaders\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationColorConstant.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationColorLinear.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Animations\Components\CSAnimationColorChannel.cpp">
+      <Filter>소스 파일\CDK\Base\Animations\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\IO\CSData.cpp">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\IO\CSData+Base64.cpp">
+      <Filter>소스 파일\CDK\Base\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\CSUpdatePass.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Interface\CSApplication.cpp">
+      <Filter>소스 파일\CDK\Base\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Target\CSRenderBufferDescription.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Target\CSRenderBuffers.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSBounds2.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSBounds3.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSInt2.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSInt3.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Base\CSInt4.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Camera\CSCameraObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Environment\CSGround.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Environment\CSSceneEnv.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Environment\CSScenePref.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Environment\CSTerrain.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Lighting\CSDirectionalLightObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Lighting\CSPointLightObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Lighting\CSSpotLightObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Geometry\CSCollider.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Geometry\CSBoxObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Geometry\CSSphereObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Scenes\Geometry\CSCapsuleObject.cpp">
+      <Filter>소스 파일\CDK\Base\Scenes\Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSStringBuilder.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSString.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSStringContentTable.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Core\CSStringContent.cpp">
+      <Filter>소스 파일\CDK\Base\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CDK\Sources\Graphics\Texturing\CSImageObject.cpp">
+      <Filter>소스 파일\CDK\Base\Graphics\Texturing</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\CDK\Sources\Platform\windows\device.cfg">
+      <Filter>소스 파일\CDK\Base\Platform\windows</Filter>
+    </None>
+  </ItemGroup>
+</Project>

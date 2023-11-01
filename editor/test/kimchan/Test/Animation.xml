@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animationAsset version="100">
+  <keys />
+  <animation name="Animation" target="Target1" usingPathSpeed="True" pathSpeed="198.02" z="Curve;0,0,0,0.3773282,0.3773282;1,0,0,-0.4535196,-0.4535196;20000" pathLoop="1,False,False" localeVisible="True">
+    <substance type="Trail">
+      <trail emission="True" repeat="True">
+        <sources>
+          <mesh bones="Bone007,Bone008,Bone009,Bone010,Bone011,Bone012">
+            <selection asset="2e28ea82-5d2e-45a9-bf38-166a82ae80be" geometry="Trail Test C" animation="Take 001">
+              <material local="True" />
+            </selection>
+          </mesh>
+        </sources>
+      </trail>
+    </substance>
+    <derivation type="Multi" />
+  </animation>
+  <scene key="QxqOLjJG1kCj3K6rbDlGww">
+    <environment key="WvZjYpz3jkqKhszQbDeBWw" preferenceConfig="Default" lightConfig="Default" />
+    <ground key="pRNNp3KUQEK8Gx+UbR2zDg" config="Default" />
+    <animationRoot key="Hc/mAvIUnkWFd4scI9OOdQ" located="True" transform=",,-183.8125,210.7302,0,0,0,0,1,1,1,1,False" asset="7cccc7d1-73c7-4b04-8b76-51ce525673d1" />
+    <spawn key="t1yCLnqo+EacLxdNK4+Lng" asset="gGMsMdGapEOJCxZg/HhtYw" located="True" transform=",,186.8357,-314.647,0,0,0,0,1,1,1,1,False">
+      <spawnObject key="aaa">
+	    <mesh key="bbb">
+          <selection geometry="archer_attack">
+            <material local="True" />
+          </selection>
+		</mesh>
+        <attributes>
+          <attributeValue key="47DpQ9FvsEeuqL5IwYFyMg" value="UKr43Rw3RUiv8yuQFfvHfQ,2022-06-28 오후 3:12:32,1,False" />
+          <attributeValue key="z03o8fgeuECkNIJyPGJpsg" value="Y1elkGkQIUiZMUKyqWZgwg,2022-06-28 오후 3:12:33,2,False" />
+          <attributeValue key="UaeCsyeJbE2ijiykmhwRLg" value="tKgxrskO6UeJ23Xef8uuZA,2022-06-28 오후 3:12:33,3,False" />
+        </attributes>
+	  </spawnObject>
+    </spawn>
+  </scene>
+</animationAsset>

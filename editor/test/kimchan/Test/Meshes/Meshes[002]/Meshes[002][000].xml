@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meshAsset version="100" axis="YUp">
+  <imports>
+    <import name="Trail Test B" extension="FBX" geometry="True" />
+    <import name="Trail Test C" extension="FBX" geometry="True" animations="Take 001" />
+  </imports>
+  <geometries>
+    <geometry name="Trail Test B" />
+    <geometry name="Trail Test C" />
+  </geometries>
+  <animations>
+    <animation name="Take 001" />
+  </animations>
+  <selection geometry="Trail Test C" animation="Take 001" >
+    <material/>
+  </selection>
+</meshAsset>

@@ -1,0 +1,9 @@
+기즈모 축변경 TRS, ESCAPE -> QWE, ESCAPE
+터레인 수치변경 QWERAS -> ASDFGH
+터레인 모드변경 123 -> QWE
+(씬)씬카메라 축변경 XYZ -> 123
+애니메이션 타겟변경 123, ESCAPE -> QWE, ESCAPE
+트레일 모드아웃 ESCAPE
+(씬)커서온오프 스페이스 -> 스페이스
+(씬)선택오브젝트표시 없음 -> 4
+(씬)카메라리셋 ESCAPE

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<signalViewer>
+  <ndkVersion value="23.1.7779620" />
+  <androidExecutables>
+	<androidExecutable name="libcdkapp" appVersionFrom="2.4.0" path="libcdkapp_2.4.0.so" />
+  </androidExecutables>
+  <androidPackageNames value="kr.co.brgames" />
+  <iOSPackageName value="ACIES: Battle Runes" />
+</signalViewer>

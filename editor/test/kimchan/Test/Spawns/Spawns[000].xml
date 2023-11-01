@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spawnAsset version="100" view="84c89b84-dd7a-46ca-b00e-460ac173eaf8">
+  <attribute>
+    <element key="47DpQ9FvsEeuqL5IwYFyMg" name="TEST" value="cft3ea0w2EWmPE00alTtYA,2022-06-28 오후 2:23:32,,False" type="Byte" description="" listType="None" />
+    <element key="z03o8fgeuECkNIJyPGJpsg" name="TEST2" value="2AOyQ7UaCU2c25p7VqsP2w,2022-06-28 오후 2:23:33,,False" type="Byte" description="" listType="None" />
+    <element key="UaeCsyeJbE2ijiykmhwRLg" name="TEST3" value="yh1XtEGhp0WY7aQAL2ww6g,2022-06-28 오후 2:24:02,A,False" type="Byte" description="" listType="None">
+      <items>
+        <item name="A" value="1" />
+        <item name="B" value="2" />
+        <item name="C" value="3" />
+      </items>
+    </element>
+  </attribute>
+  <collision source="AAAAA" collider="1">
+    <tiles>
+      <tile />
+      <tile />
+      <tile />
+    </tiles>
+    <targets>
+      <target source="AAAAA" distance="2" square="True" />
+      <target source="AAAAC" distance="3" />
+      <target source="AAAAD" distance="4" />
+    </targets>
+  </collision>
+</spawnAsset>

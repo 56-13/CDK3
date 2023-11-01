@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<materialAsset version="100" format="ClampToEdge,ClampToEdge,ClampToEdge,LinearMipmapLinear,Linear,00000000,10" colorEncoding="HighSample" normalEncoding="High" materialEncoding="High" emissiveEncoding="HighSample" hasOpacity="False" hasDisplacement="False" hasMetallic="False" hasRoughness="True" hasOcclusion="False" lighting="True" metallic="0.001" roughness="0.999" ambientOcclusion="1" rim="0.5" reflection="True">
+	<material/>
+</materialAsset>

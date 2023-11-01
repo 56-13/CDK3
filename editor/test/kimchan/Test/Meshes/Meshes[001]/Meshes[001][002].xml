@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meshAsset version="100" axis="YUp" flipuv="True">
+  <imports>
+    <import name="SM_Big_Rock_01" extension="fbx" geometry="True" />
+    <import name="SM_Big_Rock_02" extension="fbx" geometry="True" />
+    <import name="SM_Big_Rock_03" extension="fbx" geometry="True" />
+    <import name="SM_DeadBush_01" extension="fbx" geometry="True" />
+    <import name="SM_DeadBush_03" extension="fbx" geometry="True" />
+    <import name="SM_Fern_01" extension="fbx" geometry="True" />
+    <import name="SM_Fern_02" extension="fbx" geometry="True" />
+    <import name="SM_Flat_Rock_01" extension="fbx" geometry="True" />
+    <import name="SM_Flat_Rock_02" extension="fbx" geometry="True" />
+    <import name="SM_Flat_Rock_03" extension="fbx" geometry="True" />
+    <import name="SM_Flat_Rock_04" extension="fbx" geometry="True" />
+    <import name="SM_Flat_Rock_05" extension="fbx" geometry="True" />
+    <import name="SM_Grass_01" extension="fbx" geometry="True" />
+    <import name="SM_Grass_02" extension="fbx" geometry="True" />
+    <import name="SM_Grass_03" extension="fbx" geometry="True" />
+    <import name="SM_Grass_04" extension="fbx" geometry="True" />
+    <import name="SM_Grass_05" extension="fbx" geometry="True" />
+    <import name="SM_Grass_06" extension="fbx" geometry="True" />
+    <import name="SM_Grass_07" extension="fbx" geometry="True" />
+    <import name="SM_Grass_08" extension="fbx" geometry="True" />
+    <import name="SM_Rock_01" extension="fbx" geometry="True" />
+    <import name="SM_Rock_02" extension="fbx" geometry="True" />
+    <import name="SM_Rock_03" extension="fbx" geometry="True" />
+    <import name="SM_Rock_04" extension="fbx" geometry="True" />
+    <import name="SM_Rock_05" extension="fbx" geometry="True" />
+    <import name="SM_Small_Rock_01" extension="fbx" geometry="True" />
+    <import name="SM_Small_Rock_02" extension="fbx" geometry="True" />
+    <import name="SM_Small_Rock_03" extension="fbx" geometry="True" />
+    <import name="SM_Small_Rock_04" extension="fbx" geometry="True" />
+    <import name="SM_Small_Rock_05" extension="fbx" geometry="True" />
+    <import name="SM_Small_Rock_06" extension="fbx" geometry="True" />
+  </imports>
+  <geometries>
+    <geometry name="SM_Big_Rock_01" />
+    <geometry name="SM_Big_Rock_02" />
+    <geometry name="SM_Big_Rock_03" />
+    <geometry name="SM_DeadBush_01" />
+    <geometry name="SM_DeadBush_03" />
+    <geometry name="SM_Fern_01" />
+    <geometry name="SM_Fern_02" />
+    <geometry name="SM_Flat_Rock_01" />
+    <geometry name="SM_Flat_Rock_02" />
+    <geometry name="SM_Flat_Rock_03" />
+    <geometry name="SM_Flat_Rock_04" />
+    <geometry name="SM_Flat_Rock_05" />
+    <geometry name="SM_Grass_01" />
+    <geometry name="SM_Grass_02" />
+    <geometry name="SM_Grass_03" />
+    <geometry name="SM_Grass_04" />
+    <geometry name="SM_Grass_05" />
+    <geometry name="SM_Grass_06" />
+    <geometry name="SM_Grass_07" />
+    <geometry name="SM_Grass_08" />
+    <geometry name="SM_Rock_01" />
+    <geometry name="SM_Rock_02" />
+    <geometry name="SM_Rock_03" />
+    <geometry name="SM_Rock_04" />
+    <geometry name="SM_Rock_05" />
+    <geometry name="SM_Small_Rock_01" />
+    <geometry name="SM_Small_Rock_02" />
+    <geometry name="SM_Small_Rock_03" />
+    <geometry name="SM_Small_Rock_04" />
+    <geometry name="SM_Small_Rock_05" />
+    <geometry name="SM_Small_Rock_06" />
+  </geometries>
+  <animations />
+  <selection geometry="SM_Big_Rock_01">
+    <material origin="474ca756-78fb-46f2-be64-2111b39a41dc" />
+  </selection>
+</meshAsset>

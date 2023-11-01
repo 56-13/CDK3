@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scene>
+  <preferences>
+	  <preference name="Default" samples="4" />
+  </preferences>
+  <environments>
+	<environment name="Default" ambient="4C4C4CFF">
+	  <directionalLight key="U/5xjoVtOUaJXubWsJGuNg" located="True" transform=",,0,0,500,0.08189961,-0.3407187,0.02980902,0.9361168,1,1,1,False" color="6,6,6">
+		<shadow resolution="2048" />
+	  </directionalLight>
+	</environment>
+  </environments>
+  <grounds>
+    <ground name="Default" width="50" height="50" altitude="50" grid="40">
+      <material local="True" colorConstantColor="808080FF" metallic="0.7" roughness="0.3" />
+    </ground>
+  </grounds>
+</scene>

@@ -1,0 +1,3 @@
+Cache\
+error.log
+project.path

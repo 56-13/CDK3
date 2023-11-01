@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<memory amount="8192"/>
+	<locale locales="ko,en,th,zh-chs,ru"/>
+	<font name="Noto Sans CJK KR Regular" size="20" />
+	<resource>
+		<skybox path="sky_2.png"/>
+	</resource>
+	<texture compressedRgba="CompressedRgba8Etc2Eac" compressedRgb="CompressedRgb8Etc2" compressedSrgbA="CompressedSrgb8Alpha8Etc2Eac" compressedSrgb="CompressedSrgb8Etc2" />
+	<scene>
+		<preferences>
+			<preference name="Default" samples="4" />
+		</preferences>
+		<environments>
+			<environment name="Default" ambient="4C4C4CFF">
+				<directionalLight key="U/5xjoVtOUaJXubWsJGuNg" located="True" transform=",,0,0,500,0.08189961,-0.3407187,0.02980902,0.9361168,1,1,1,False" color="6,6,6">
+					<shadow resolution="2048" />
+				</directionalLight>
+			</environment>
+		</environments>
+		<grounds>
+			<ground name="Default" width="50" height="50" altitude="50" grid="40">
+				<material local="True" colorConstantColor="808080FF" bloom="True" metallic="0.7" roughness="0.3" />
+			</ground>
+		</grounds>
+	</scene>
+</config>

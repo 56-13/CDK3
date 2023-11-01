@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meshAsset version="100" axis="YUp" flipuv="True">
+  <imports>
+    <import name="archer_attack" extension="FBX" geometry="True" animations="Take 001" />
+  </imports>
+  <geometries>
+    <geometry name="archer_attack" >
+	  <materials>
+		<material origin="979f0ec9-43c6-4694-97b2-060871f4dcdc" />
+	  </materials>
+	  <colliders/>
+	</geometry>
+  </geometries>
+  <animations>
+    <animation name="Take 001" />
+  </animations>
+  <selection geometry="archer_attack" >
+    <material origin="979f0ec9-43c6-4694-97b2-060871f4dcdc" />
+  </selection>
+</meshAsset>

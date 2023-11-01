@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animationAsset version="100">
+  <keys />
+  <animation target="Origin" usingPathSpeed="True" localeVisible="True">
+    <substance type="Sprite">
+      <sprite>
+        <timeline layer="4" endTime="0.8">
+          <mesh>
+		    <selection asset="84c89b84-dd7a-46ca-b00e-460ac173eaf8" geometry="archer_attack" animation="Take 001" >
+			  <material origin="979f0ec9-43c6-4694-97b2-060871f4dcdc" />
+			</selection>
+		  </mesh>
+        </timeline>
+      </sprite>
+    </substance>
+    <derivation type="Multi" />
+  </animation>
+  <selection />
+  <object key="2eadd764-a963-4def-82bd-78874d8a81b8" name="Props"/>
+</animationAsset>

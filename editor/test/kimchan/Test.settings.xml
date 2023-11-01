@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <build executablePath="..\bin\TalesCraft2.bat" uploadPath="..\..\Resources\full"/>
+  <constants group="AnimationKey">
+	<constant name="Direction 0" value="1" />
+	<constant name="Direction 1" value="2" />
+	<constant name="Direction 2" value="4" />
+	<constant name="Direction 3" value="8" />
+	<constant name="Direction 4" value="16" />
+	<constant name="Direction 5" value="32" />
+	<constant name="Direction 6" value="64" />
+	<constant name="Direction 7" value="128" />
+	<constant name="Direction 8" value="256" />
+	<constant name="Direction 9" value="512" />
+	<constant name="Direction 10" value="1024" />
+	<constant name="Direction 11" value="2048" />
+  </constants>
+  <constants group="TerrainTile">
+	<constant name="Hidden" value="0" color="FF0000FF" />
+    <constant name="Unabled" value="1" color="FF8000FF" />
+    <constant name="Move" value="2" color="FFFF00FF" />
+    <constant name="Bush" value="3" color="C0C0C0FF" />
+    <constant name="Build" value="4" color="FFFFFFFF" />
+  </constants>
+</settings>

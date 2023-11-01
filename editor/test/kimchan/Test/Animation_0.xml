@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animationAsset version="100">
+  <keys />
+  <animation target="Origin" usingPathSpeed="True" localeVisible="True">
+    <substance type="Mesh">
+	  <mesh>
+		<selection asset="84c89b84-dd7a-46ca-b00e-460ac173eaf8" geometry="archer_attack" animation="Take 001">
+		  <material origin="979f0ec9-43c6-4694-97b2-060871f4dcdc" />
+		</selection>
+	  </mesh>
+    </substance>
+    <derivation type="Multi">
+      <animation target="Origin" nodeName="Bip001 L Forearm" usingPathSpeed="True" scaleX="Constant;0.2644499,0" localeVisible="True">
+        <substance type="Mesh">
+		  <mesh>
+            <selection asset="504e0ccf-25fd-4c86-977f-c5948ee3b178" geometry="SM_Big_Rock_01">
+			  <material origin="474ca756-78fb-46f2-be64-2111b39a41dc" />
+			</selection>
+		  </mesh>
+        </substance>
+        <derivation type="Multi" />
+      </animation>
+    </derivation>
+  </animation>
+  <selection />
+  <object key="4fcd0801-6f95-4bdf-a7ef-2d3a0842eb3d" name="Props"/>
+</animationAsset>

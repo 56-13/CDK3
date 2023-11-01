@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDK", "CDK\CDK.csproj", "{217E7371-27BA-415D-9BA8-46C19BDCDA12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDK.Assets", "CDK.Assets\CDK.Assets.csproj", "{75185A4E-5808-48BD-8724-CC81E4772210}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDK.AssetEditor", "CDK.AssetEditor\CDK.AssetEditor.csproj", "{63F2A0D2-D6E0-4292-A7CE-5DF1D30950E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4607423-5B84-4888-B4DC-118FA6E47016}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDK.SignalViewer", "CDK.SignalViewer\CDK.SignalViewer.csproj", "{096F9AB9-F3B6-4EFA-A3BF-3A69919B2B48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDK.Drawing", "CDK.Drawing\CDK.Drawing.csproj", "{3CFF9246-CDF7-4011-BA75-FF1283C083D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217E7371-27BA-415D-9BA8-46C19BDCDA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217E7371-27BA-415D-9BA8-46C19BDCDA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217E7371-27BA-415D-9BA8-46C19BDCDA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217E7371-27BA-415D-9BA8-46C19BDCDA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75185A4E-5808-48BD-8724-CC81E4772210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75185A4E-5808-48BD-8724-CC81E4772210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75185A4E-5808-48BD-8724-CC81E4772210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75185A4E-5808-48BD-8724-CC81E4772210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F2A0D2-D6E0-4292-A7CE-5DF1D30950E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F2A0D2-D6E0-4292-A7CE-5DF1D30950E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F2A0D2-D6E0-4292-A7CE-5DF1D30950E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F2A0D2-D6E0-4292-A7CE-5DF1D30950E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096F9AB9-F3B6-4EFA-A3BF-3A69919B2B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096F9AB9-F3B6-4EFA-A3BF-3A69919B2B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096F9AB9-F3B6-4EFA-A3BF-3A69919B2B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096F9AB9-F3B6-4EFA-A3BF-3A69919B2B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFF9246-CDF7-4011-BA75-FF1283C083D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFF9246-CDF7-4011-BA75-FF1283C083D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFF9246-CDF7-4011-BA75-FF1283C083D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFF9246-CDF7-4011-BA75-FF1283C083D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA27DBEF-0F47-4E42-A8C4-323E6E4A1517}
+	EndGlobalSection
+EndGlobal
