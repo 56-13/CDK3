@@ -230,7 +230,8 @@ namespace CDK.Drawing
 
         public Vector2 GetStringSize(in StringParam str, float width)
         {
-            return GetStringSizeImpl(str, _state.Font, width, GetParagraphDisplays(str, _state.Font));
+            return Vector2.Zero;        //TODO
+            //return GetStringSizeImpl(str, _state.Font, width, GetParagraphDisplays(str, _state.Font));
         }
 
         private Vector2 GetStringLineSizeImpl(in StringParam str, int pi, float width, ParagraphDisplay[] paraDisplays)
@@ -295,6 +296,7 @@ namespace CDK.Drawing
 
         private void DrawStringImpl(in StringParam str, in ZRectangle destRect, float scroll, ParagraphDisplay[] paraDisplays)
         {
+            /*
             Push();
 
             _state.Batch.Material.ColorMap = null;
@@ -425,12 +427,15 @@ namespace CDK.Drawing
             DrawStringCharacterEnd(ref command);
 
             Pop();
+            */
+            //TODO
         }
 
 
         public void DrawStringScrolled(in StringParam str, in ZRectangle destRect, float scroll) 
         {
-            DrawStringImpl(str, destRect, scroll, GetParagraphDisplays(str, _state.Font));
+            //DrawStringImpl(str, destRect, scroll, GetParagraphDisplays(str, _state.Font));
+            //TODO
         }
 
         public void DrawString(in StringParam str, in ZRectangle destRect) 
@@ -440,6 +445,7 @@ namespace CDK.Drawing
 
         public void DrawString(in StringParam str, ZRectangle destRect, Align align)
         {
+            /*
             var paraDisplays = GetParagraphDisplays(str, _state.Font);
 
             if (((int)align & (AlignComponent.Center | AlignComponent.Right | AlignComponent.Middle | AlignComponent.Bottom)) != 0)
@@ -488,10 +494,13 @@ namespace CDK.Drawing
             {
                 DrawStringImpl(str, destRect, 0, paraDisplays);
             }
+            */
+            //TODO
         }
 
         public float DrawString(in StringParam str, in Vector3 point, float width = StringWidthUnlimited) 
         {
+            /*
             var paraDisplays = GetParagraphDisplays(str, _state.Font);
 
             if (width >= StringWidthUnlimited) width = GetStringSizeImpl(str, StringWidthUnlimited, paraDisplays).X;
@@ -499,11 +508,13 @@ namespace CDK.Drawing
             DrawStringImpl(str, new ZRectangle(point, new Vector2(width, StringWidthUnlimited)), 0, paraDisplays);
 
             return width;
-
+            */
+            return 0;       //TODO
         }
 
         public float DrawString(in StringParam str, Vector3 point, Align align, float width = StringWidthUnlimited) 
         {
+            /*
             var paraDisplays = GetParagraphDisplays(str, _state.Font);
 
             var size = GetStringSizeImpl(str, width, paraDisplays);
@@ -513,9 +524,13 @@ namespace CDK.Drawing
             DrawStringImpl(str, new ZRectangle(point, size), 0, paraDisplays);
 
             return width >= StringWidthUnlimited ? size.X : width;
+            */
+            //TODO
+            return 0;
         }
         public void DrawStringScaled(in StringParam str, in Vector3 point, float width) 
         {
+            /*
             var paraDisplays = GetParagraphDisplays(str, _state.Font);
 
             var size = GetStringSizeImpl(str, StringWidthUnlimited, paraDisplays);
@@ -535,11 +550,13 @@ namespace CDK.Drawing
                 size.X = width;
                 DrawStringImpl(str, new ZRectangle(point, size), 0, paraDisplays);
             }
-
+            */
+            //TODO
         }
 
         public void DrawStringScaled(in StringParam str, Vector3 point, Align align, float width) 
         {
+            /*
             var paraDisplays = GetParagraphDisplays(str, _state.Font);
 
             var size = GetStringSizeImpl(str, StringWidthUnlimited, paraDisplays);
@@ -561,10 +578,13 @@ namespace CDK.Drawing
                 point = align.Adjust(point, size);
                 DrawStringImpl(str, new ZRectangle(point, size), 0, paraDisplays);
             }
+            */
+            //TODO
         }
 
         public void DrawStringScaled(in StringParam str, in ZRectangle destRect) 
         {
+            /*
             var paraDisplays = GetParagraphDisplays(str, _state.Font);
 
             var size = GetStringSizeImpl(str, destRect.Width, paraDisplays);
@@ -596,11 +616,13 @@ namespace CDK.Drawing
             {
                 DrawStringImpl(str, destRect, 0, paraDisplays);
             }
-
+            */
+            //TODO
         }
 
         public void DrawStringScaled(in StringParam str, ZRectangle destRect, Align align) 
         {
+            /*
             var paraDisplays = GetParagraphDisplays(str, _state.Font);
 
             var size = GetStringSizeImpl(str, destRect.Width, paraDisplays);
@@ -676,7 +698,8 @@ namespace CDK.Drawing
 
                 DrawStringImpl(str, destRect, 0, paraDisplays);
             }
-
+            */
+            //TODO
         }
         public void DrawStringTruncated(in StringParam str, in Vector3 point, float width) 
         {
@@ -685,6 +708,7 @@ namespace CDK.Drawing
 
         private static readonly StringDisplay truncateStr = new StringDisplay("...");
         public void DrawStringTruncated(StringParam str, Vector3 point, Align align, float width) {
+            /*
             var cs = Glyphs.Instance;
 
             var trstr = new StringDisplay("...");
@@ -733,6 +757,8 @@ namespace CDK.Drawing
             }
             point = align.Adjust(point, lineSize);
             DrawStringImpl(str, new ZRectangle(point, new Vector2(width, StringWidthUnlimited)), 0, paraDisplays);
+            */
+            //TODO
         }
     }
 }

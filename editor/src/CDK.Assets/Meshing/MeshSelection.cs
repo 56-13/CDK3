@@ -261,7 +261,10 @@ namespace CDK.Assets.Meshing
         {
             if (node.LocalName != "selection") throw new XmlException();
 
-            Asset = (MeshAsset)node.ReadAttributeAsset("asset");
+            if (node.HasAttribute("asset"))
+            {
+                Asset = (MeshAsset)node.ReadAttributeAsset("asset");
+            }
 
             if (node.HasAttribute("geometry"))
             {

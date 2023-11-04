@@ -1,6 +1,8 @@
-﻿using System;
+using System;
 using System.ComponentModel;
 using System.Windows.Forms;
+
+using CDK.Drawing;
 
 using CDK.Assets.Components;
 

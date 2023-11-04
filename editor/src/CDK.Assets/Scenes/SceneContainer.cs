@@ -165,7 +165,7 @@ namespace CDK.Assets.Scenes
             _listChanging = true;
             try
             {
-                var config = GetAncestor<Scene>(true).Config;
+                var config = GetAncestor<Scene>(true)?.Config;          //TODO:CHECK
 
                 Children.Clear();
                 foreach (XmlNode subnode in node.ChildNodes)

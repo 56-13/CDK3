@@ -221,7 +221,7 @@ namespace CDK.Drawing
                     {
                         Type = StringParagraphType.Stroke,
                         Color0 = color,
-                        StrokeWidth = width
+                        StrokeWidth = (byte)width
                     };
                     paragraphs.Add(p);
                     return true;
