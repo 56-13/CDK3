@@ -38,3 +38,9 @@
 - 스마트 포인터 래퍼 적용
 - 쓰레드 태스크풀 적용
 - 전역 스트링 캐시 테이블 적용으로 해싱 및 텍스트 렌더링 최적화
+## 관련 게임영상
+이전 버전의 엔진이 적용된 ACIES 게임 영상입니다.
+- [경기 영상](https://www.youtube.com/watch?v=e7IZnR5a7aE)
+- [짧은 영상 #1](https://www.youtube.com/shorts/rtTooiV_zoI)
+- [짧은 영상 #2](https://www.youtube.com/shorts/30fraEUQuvs)
+- [짧은 영상 #3](https://www.youtube.com/shorts/Eixu5wCpP88)
